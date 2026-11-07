@@ -34,3 +34,10 @@
   padding: 16px;
   text-align: center;
 }
+
+.activitygroup {
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  padding-left: 10px;
+}
