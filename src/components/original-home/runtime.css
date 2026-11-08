@@ -1,0 +1,64 @@
+/* Compatibility with the starter's global styles, not a new visual theme. */
+#root:has(> .original-home) { display: block; min-height: 0; }
+:root:has(.original-home) { color-scheme: light; }
+.original-home {
+  /* The captured premium-site markup contains no Wix advertising element.
+     These runtime defaults keep its original sticky-header rules resolvable. */
+  --wix-ads-height: 0px;
+  --wix-ads-top-height: 0px;
+}
+/* Live Wix adds this focus ring at runtime. The local dropdown's anchors
+   need the same measured ring after removing that runtime dependency. */
+.original-home #comp-iqimi3rldropWrapper a:focus-visible {
+  box-shadow: 0 0 0 2px #fff, 0 0 0 4px #116dff;
+}
+/* The starter theme is scoped out in index.css. Let the captured font/color
+   classes and original link/state rules participate in the cascade directly;
+   forcing inherit here would override their explicit theme colors. */
+
+/* The removed campaign occupied grid row 1. Keep all later row assignments
+   intact, but give the now-empty first row no height on either source layout. */
+.original-home [data-mesh-id="ContainerotavvinlineContent-gridContainer"] {
+  grid-template-rows: 0px repeat(4, min-content) 1fr;
+}
+body.device-mobile-optimized .original-home [data-mesh-id="ContainerotavvinlineContent-gridContainer"] {
+  grid-template-rows: 0px repeat(3, min-content) 1fr;
+}
+
+/* Wix emitted these entrance animations paused at an opacity:0 first frame.
+   Run only the three hero text animations, retaining their source keyframes,
+   duration, delay, easing, and the source reduced-motion behavior. */
+@media (prefers-reduced-motion: no-preference) {
+  .original-home #comp-kgyv85sr,
+  .original-home #comp-kgyv85t01,
+  .original-home #comp-kgyvb9r6 {
+    animation-play-state: running;
+  }
+}
+
+/* Wix's static SEO submenus contain the exact labels/targets; React controls
+   their visible counterpart using the source menu's own font/color tokens. */
+#comp-iqimi3rlitemsContainer { display: flex; }
+#comp-iqimi3rlitemsContainer > li:not(#comp-iqimi3rl__more__) { flex: 1 0 auto; }
+#comp-iqimi3rldropWrapper { z-index: 100; }
+#comp-iqimi3rlmoreContainer, #comp-iqimi3rldropWrapper > ul {
+  margin: 0; padding: var(--pad); list-style: none;
+  background: rgba(var(--bgDrop), var(--alpha-bgDrop));
+  font: var(--fnt); color: rgb(var(--txt));
+}
+#comp-iqimi3rldropWrapper > ul > li > a {
+  display: block; padding: var(--pad); white-space: nowrap;
+  /* The source runtime labels are p.VhM8Ji; the captured SEO links rendered
+     here carry their text directly. Map only these labels to the same tokens.
+     An author color also prevents UA link/visited colors from showing through. */
+  color: rgb(var(--txt));
+  transition: var(--trans2);
+}
+#comp-iqimi3rldropWrapper > ul > li > a:hover {
+  background: rgba(var(--bgh), var(--alpha-bgh)); color: rgb(var(--txth));
+}
+/* Source selected rules follow hover rules. Pure keyboard focus retains the
+   normal/selected color; keep the native focus indicator rather than hover tint. */
+#comp-iqimi3rldropWrapper > ul > li > a[aria-current="page"] {
+  background: rgba(var(--bgs), var(--alpha-bgs)); color: rgb(var(--txts));
+}

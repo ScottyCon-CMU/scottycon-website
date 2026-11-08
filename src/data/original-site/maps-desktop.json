@@ -1,0 +1,2596 @@
+{
+  "source": "https://www.scottycon.com/maps",
+  "title": "Maps | ScottyCon",
+  "viewport": "width=device-width, initial-scale=1",
+  "bodyClass": "",
+  "htmlStyle": "",
+  "shell": {
+    "tag": "div",
+    "attributes": {
+      "id": "SITE_CONTAINER"
+    },
+    "children": [
+      {
+        "tag": "div",
+        "attributes": {
+          "id": "main_MF",
+          "class": "main_MF"
+        },
+        "children": [
+          {
+            "tag": "div",
+            "attributes": {
+              "id": "SCROLL_TO_TOP",
+              "class": "qe3oTb ignore-focus SCROLL_TO_TOP",
+              "role": "region",
+              "tabindex": "-1",
+              "aria-label": "top of page"
+            },
+            "children": [
+              {
+                "tag": "span",
+                "attributes": {
+                  "class": "TvbeET"
+                },
+                "children": [
+                  "top of page"
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attributes": {
+              "id": "BACKGROUND_GROUP",
+              "class": "backgroundGroup_yzs62 BACKGROUND_GROUP"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attributes": {
+                  "id": "BACKGROUND_GROUP_TRANSITION_GROUP"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "id": "pageBackground_yzs62",
+                      "data-media-height-override-type": "",
+                      "data-media-position-override": "false",
+                      "class": "pageBackground_yzs62 _7xVID"
+                    },
+                    "children": [
+                      {
+                        "tag": "div",
+                        "attributes": {
+                          "id": "bgLayers_pageBackground_yzs62",
+                          "data-hook": "bgLayers",
+                          "data-motion-part": "BG_LAYER pageBackground_yzs62",
+                          "class": "QG9w8P"
+                        },
+                        "children": [
+                          {
+                            "tag": "div",
+                            "attributes": {
+                              "data-testid": "colorUnderlay",
+                              "class": "LNYVZi ayCf9D"
+                            },
+                            "children": []
+                          },
+                          {
+                            "tag": "div",
+                            "attributes": {
+                              "id": "bgMedia_pageBackground_yzs62",
+                              "data-motion-part": "BG_MEDIA pageBackground_yzs62",
+                              "class": "ROWgFb"
+                            },
+                            "children": [
+                              {
+                                "tag": "wow-image",
+                                "attributes": {
+                                  "id": "img_pageBackground_yzs62",
+                                  "class": "Qh0lWW ayCf9D fO4mKs NgeJ4N bgImage",
+                                  "data-motion-part": "BG_IMG pageBackground_yzs62",
+                                  "data-bg-effect-name": "",
+                                  "data-has-ssr-src": "true"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "img",
+                                    "attributes": {
+                                      "src": "/original-home/pagebackground-otavv-3efb8c4a9fdc.jpg",
+                                      "alt": "",
+                                      "style": "width:100%;height:100%;object-fit:cover;object-position:50% 0%",
+                                      "width": "1920",
+                                      "height": "1920"
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attributes": {
+              "id": "site-root",
+              "class": "site-root"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attributes": {
+                  "id": "masterPage",
+                  "class": "mesh-layout masterPage css-editing-scope"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "id": "pinnedTopLeft",
+                      "class": "pinnedTopLeft"
+                    },
+                    "children": [
+                      {
+                        "tag": "div",
+                        "attributes": {
+                          "id": "comp-irbsuerz-pinned-layer",
+                          "class": "comp-irbsuerz-pinned-layer QED8q1"
+                        },
+                        "children": [
+                          {
+                            "tag": "div",
+                            "attributes": {
+                              "id": "comp-irbsuerz",
+                              "class": "e_a0EV comp-irbsuerz"
+                            },
+                            "children": [
+                              {
+                                "tag": "div",
+                                "attributes": {
+                                  "class": "gyovE9 wixui-box",
+                                  "data-testid": "container-bg"
+                                },
+                                "children": []
+                              },
+                              {
+                                "tag": "div",
+                                "attributes": {
+                                  "data-mesh-id": "comp-irbsuerzinlineContent",
+                                  "data-testid": "inline-content",
+                                  "class": ""
+                                },
+                                "children": [
+                                  {
+                                    "tag": "div",
+                                    "attributes": {
+                                      "data-mesh-id": "comp-irbsuerzinlineContent-gridContainer",
+                                      "data-testid": "mesh-container-content"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "id": "comp-ir0aiuj0",
+                                          "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-ir0aiuj0 wixui-rich-text",
+                                          "data-testid": "richTextElement"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "p",
+                                            "attributes": {
+                                              "class": "font_0 wixui-rich-text__text",
+                                              "style": "line-height:normal; text-align:center; font-size:22px;"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "span",
+                                                "attributes": {
+                                                  "style": "font-weight:bold;",
+                                                  "class": "wixui-rich-text__text"
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "a",
+                                                    "attributes": {
+                                                      "href": "https://www.scottycon.com",
+                                                      "target": "_self",
+                                                      "class": "wixui-rich-text__text"
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "tag": "span",
+                                                        "attributes": {
+                                                          "style": "letter-spacing:0.05em;",
+                                                          "class": "wixui-rich-text__text"
+                                                        },
+                                                        "children": [
+                                                          "ScottyCon"
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "slot": "header"
+                  },
+                  {
+                    "slot": "content"
+                  },
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "id": "soapAfterPagesContainer",
+                      "class": "page-without-sosp soapAfterPagesContainer page-without-sosp"
+                    },
+                    "children": [
+                      {
+                        "tag": "div",
+                        "attributes": {
+                          "data-mesh-id": "soapAfterPagesContainerinlineContent",
+                          "data-testid": "inline-content",
+                          "class": ""
+                        },
+                        "children": [
+                          {
+                            "tag": "div",
+                            "attributes": {
+                              "data-mesh-id": "soapAfterPagesContainerinlineContent-gridContainer",
+                              "data-testid": "mesh-container-content"
+                            },
+                            "children": [
+                              {
+                                "tag": "div",
+                                "attributes": {
+                                  "id": "CONTROLLER_COMP_CUSTOM_ID",
+                                  "style": "display:none"
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "slot": "footer"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attributes": {
+              "id": "SCROLL_TO_BOTTOM",
+              "class": "qe3oTb ignore-focus SCROLL_TO_BOTTOM",
+              "role": "region",
+              "tabindex": "-1",
+              "aria-label": "bottom of page"
+            },
+            "children": [
+              {
+                "tag": "span",
+                "attributes": {
+                  "class": "TvbeET"
+                },
+                "children": [
+                  "bottom of page"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "header": {
+    "tag": "header",
+    "attributes": {
+      "id": "SITE_HEADER",
+      "class": "t35nUu SITE_HEADER wixui-header",
+      "tabindex": "-1"
+    },
+    "children": [
+      {
+        "tag": "div",
+        "attributes": {
+          "class": "TyA27X"
+        },
+        "children": []
+      },
+      {
+        "tag": "div",
+        "attributes": {},
+        "children": [
+          {
+            "tag": "div",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "div",
+                "attributes": {
+                  "data-mesh-id": "SITE_HEADERinlineContent",
+                  "data-testid": "inline-content",
+                  "class": ""
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "data-mesh-id": "SITE_HEADERinlineContent-gridContainer",
+                      "data-testid": "mesh-container-content"
+                    },
+                    "children": [
+                      {
+                        "tag": "wix-dropdown-menu",
+                        "attributes": {
+                          "id": "comp-iqimi3rl",
+                          "class": "_0ZCxZC bq59qZ comp-iqimi3rl wixui-dropdown-menu hidden-during-prewarmup",
+                          "tabindex": "-1",
+                          "dir": "ltr",
+                          "data-stretch-buttons-to-menu-width": "true",
+                          "data-same-width-buttons": "false",
+                          "data-num-items": "6",
+                          "data-menuborder-y": "0",
+                          "data-menubtn-border": "0",
+                          "data-ribbon-els": "0",
+                          "data-label-pad": "0",
+                          "data-ribbon-extra": "0",
+                          "data-dropalign": "center"
+                        },
+                        "children": [
+                          {
+                            "tag": "nav",
+                            "attributes": {
+                              "class": "pols_4",
+                              "id": "comp-iqimi3rlnavContainer",
+                              "aria-label": "Site"
+                            },
+                            "children": [
+                              {
+                                "tag": "ul",
+                                "attributes": {
+                                  "class": "wTjmlM",
+                                  "id": "comp-iqimi3rlitemsContainer",
+                                  "style": "text-align:center",
+                                  "data-marginallchildren": "true"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "li",
+                                    "attributes": {
+                                      "id": "comp-iqimi3rl0",
+                                      "data-direction": "ltr",
+                                      "data-listposition": "left",
+                                      "data-data-id": "dataItem-kgyv7hri",
+                                      "data-state": "menu false  link",
+                                      "data-index": "0",
+                                      "class": "epfw99 wixui-dropdown-menu__item agzDLy"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "a",
+                                        "attributes": {
+                                          "data-testid": "linkElement",
+                                          "href": "https://www.scottycon.com",
+                                          "target": "_self",
+                                          "class": "wNTNML"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "class": "MKZTGU"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "class": ""
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "p",
+                                                    "attributes": {
+                                                      "class": "VhM8Ji",
+                                                      "id": "comp-iqimi3rl0label"
+                                                    },
+                                                    "children": [
+                                                      "Home"
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "li",
+                                    "attributes": {
+                                      "id": "comp-iqimi3rl1",
+                                      "data-direction": "ltr",
+                                      "data-listposition": "center",
+                                      "data-data-id": "dataItem-mutaru3j",
+                                      "data-state": "menu false  link",
+                                      "data-index": "1",
+                                      "class": "epfw99 wixui-dropdown-menu__item agzDLy"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "a",
+                                        "attributes": {
+                                          "data-testid": "linkElement",
+                                          "href": "https://www.scottycon.com/flea-market",
+                                          "target": "_self",
+                                          "class": "wNTNML"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "class": "MKZTGU"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "class": ""
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "p",
+                                                    "attributes": {
+                                                      "class": "VhM8Ji",
+                                                      "id": "comp-iqimi3rl1label"
+                                                    },
+                                                    "children": [
+                                                      "Flea Market"
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "li",
+                                    "attributes": {
+                                      "id": "comp-iqimi3rl2",
+                                      "data-direction": "ltr",
+                                      "data-listposition": "center",
+                                      "data-data-id": "dataItem-lf8zonl3",
+                                      "data-state": "menu false  header",
+                                      "data-index": "2",
+                                      "class": "epfw99 wixui-dropdown-menu__item agzDLy"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "data-testid": "linkElement",
+                                          "class": "wNTNML",
+                                          "tabindex": "0",
+                                          "aria-haspopup": "true",
+                                          "aria-expanded": "false",
+                                          "role": "button"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "class": "MKZTGU"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "class": ""
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "p",
+                                                    "attributes": {
+                                                      "class": "VhM8Ji",
+                                                      "id": "comp-iqimi3rl2label"
+                                                    },
+                                                    "children": [
+                                                      "Info"
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "button",
+                                        "attributes": {
+                                          "class": "H4AHlN",
+                                          "aria-label": "More Info pages"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "svg",
+                                            "attributes": {
+                                              "width": "10",
+                                              "height": "10",
+                                              "viewbox": "0 0 16 11",
+                                              "fill": "black",
+                                              "xmlns": "http://www.w3.org/2000/svg"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "path",
+                                                "attributes": {
+                                                  "d": "M8 10.5L16 1.86193L14.7387 0.5L8 7.77613L1.26133 0.499999L-5.95321e-08 1.86193L8 10.5Z"
+                                                },
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "ul",
+                                        "attributes": {
+                                          "aria-hidden": "true",
+                                          "style": "display:none"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/faq",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "FAQ"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/applications",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Applications"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/rules",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Rules"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/maps",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "aria-current": "page",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Maps"
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "li",
+                                    "attributes": {
+                                      "id": "comp-iqimi3rl3",
+                                      "data-direction": "ltr",
+                                      "data-listposition": "center",
+                                      "data-data-id": "dataItem-lbr0mofe",
+                                      "data-state": "menu false  header",
+                                      "data-index": "3",
+                                      "class": "epfw99 wixui-dropdown-menu__item agzDLy"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "data-testid": "linkElement",
+                                          "class": "wNTNML",
+                                          "tabindex": "0",
+                                          "aria-haspopup": "true",
+                                          "aria-expanded": "false",
+                                          "role": "button"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "class": "MKZTGU"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "class": ""
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "p",
+                                                    "attributes": {
+                                                      "class": "VhM8Ji",
+                                                      "id": "comp-iqimi3rl3label"
+                                                    },
+                                                    "children": [
+                                                      "Activities"
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "button",
+                                        "attributes": {
+                                          "class": "H4AHlN",
+                                          "aria-label": "More Activities pages"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "svg",
+                                            "attributes": {
+                                              "width": "10",
+                                              "height": "10",
+                                              "viewbox": "0 0 16 11",
+                                              "fill": "black",
+                                              "xmlns": "http://www.w3.org/2000/svg"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "path",
+                                                "attributes": {
+                                                  "d": "M8 10.5L16 1.86193L14.7387 0.5L8 7.77613L1.26133 0.499999L-5.95321e-08 1.86193L8 10.5Z"
+                                                },
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "ul",
+                                        "attributes": {
+                                          "aria-hidden": "true",
+                                          "style": "display:none"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/guests",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Guests"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/performances",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Performances"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/panels",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Panels"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/cosplay",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Masquerade"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/gaming",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Gaming"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/crafts",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Crafts"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/anime",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Anime"
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "li",
+                                    "attributes": {
+                                      "id": "comp-iqimi3rl4",
+                                      "data-direction": "ltr",
+                                      "data-listposition": "center",
+                                      "data-data-id": "dataItem-lcoynn3i",
+                                      "data-state": "menu false  header",
+                                      "data-index": "4",
+                                      "class": "epfw99 wixui-dropdown-menu__item agzDLy"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "data-testid": "linkElement",
+                                          "class": "wNTNML",
+                                          "tabindex": "0",
+                                          "aria-haspopup": "true",
+                                          "aria-expanded": "false",
+                                          "role": "button"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "class": "MKZTGU"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "class": ""
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "p",
+                                                    "attributes": {
+                                                      "class": "VhM8Ji",
+                                                      "id": "comp-iqimi3rl4label"
+                                                    },
+                                                    "children": [
+                                                      "Vendors"
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "button",
+                                        "attributes": {
+                                          "class": "H4AHlN",
+                                          "aria-label": "More Vendors pages"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "svg",
+                                            "attributes": {
+                                              "width": "10",
+                                              "height": "10",
+                                              "viewbox": "0 0 16 11",
+                                              "fill": "black",
+                                              "xmlns": "http://www.w3.org/2000/svg"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "path",
+                                                "attributes": {
+                                                  "d": "M8 10.5L16 1.86193L14.7387 0.5L8 7.77613L1.26133 0.499999L-5.95321e-08 1.86193L8 10.5Z"
+                                                },
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "ul",
+                                        "attributes": {
+                                          "aria-hidden": "true",
+                                          "style": "display:none"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/artistalley",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Artist Alley"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/vendors",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Vendors"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/dining",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Outside Dining"
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "li",
+                                    "attributes": {
+                                      "id": "comp-iqimi3rl5",
+                                      "data-direction": "ltr",
+                                      "data-listposition": "right",
+                                      "data-data-id": "dataItem-lb5kdfkp",
+                                      "data-state": "menu false  link",
+                                      "data-index": "5",
+                                      "class": "epfw99 wixui-dropdown-menu__item agzDLy"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "a",
+                                        "attributes": {
+                                          "data-testid": "linkElement",
+                                          "href": "https://www.scottycon.com/sponsors",
+                                          "target": "_self",
+                                          "class": "wNTNML"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "class": "MKZTGU"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "class": ""
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "p",
+                                                    "attributes": {
+                                                      "class": "VhM8Ji",
+                                                      "id": "comp-iqimi3rl5label"
+                                                    },
+                                                    "children": [
+                                                      "Sponsors"
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "li",
+                                    "attributes": {
+                                      "id": "comp-iqimi3rl__more__",
+                                      "data-direction": "ltr",
+                                      "data-listposition": "right",
+                                      "data-state": "menu false  header",
+                                      "data-index": "__more__",
+                                      "data-dropdown": "false",
+                                      "class": "gCLvxk agzDLy"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "data-testid": "linkElement",
+                                          "class": "wNTNML",
+                                          "tabindex": "0",
+                                          "aria-haspopup": "true"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "class": "MKZTGU"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "class": ""
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "p",
+                                                    "attributes": {
+                                                      "class": "VhM8Ji",
+                                                      "id": "comp-iqimi3rl__more__label"
+                                                    },
+                                                    "children": [
+                                                      "More..."
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "div",
+                                "attributes": {
+                                  "class": "VzyuRk",
+                                  "id": "comp-iqimi3rldropWrapper",
+                                  "data-dropalign": "center",
+                                  "data-dropdown-shown": "false"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "ul",
+                                    "attributes": {
+                                      "class": "RZaALk wixui-dropdown-menu__submenu",
+                                      "id": "comp-iqimi3rlmoreContainer"
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "div",
+                                "attributes": {
+                                  "style": "display:none",
+                                  "id": "comp-iqimi3rlnavContainer-hiddenA11ySubMenuIndication"
+                                },
+                                "children": [
+                                  "Use tab to navigate through the menu items."
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "content": {
+    "tag": "main",
+    "attributes": {
+      "id": "PAGES_CONTAINER",
+      "class": "PAGES_CONTAINER",
+      "tabindex": "-1",
+      "data-main-content": "true"
+    },
+    "children": [
+      {
+        "tag": "div",
+        "attributes": {
+          "id": "SITE_PAGES",
+          "class": "Y3K28_ SITE_PAGES"
+        },
+        "children": [
+          {
+            "tag": "div",
+            "attributes": {
+              "id": "SITE_PAGES_TRANSITION_GROUP",
+              "class": "uvik8H"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attributes": {
+                  "id": "yzs62",
+                  "class": "i0StQr theme-vars yzs62"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "class": "pTvOx2 wixui-page",
+                      "data-testid": "page-bg"
+                    },
+                    "children": []
+                  },
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "class": "JJb9Mt"
+                    },
+                    "children": [
+                      {
+                        "tag": "div",
+                        "attributes": {
+                          "id": "Containeryzs62",
+                          "class": "Containeryzs62 wH18kY"
+                        },
+                        "children": [
+                          {
+                            "tag": "div",
+                            "attributes": {
+                              "data-mesh-id": "Containeryzs62inlineContent",
+                              "data-testid": "inline-content",
+                              "class": ""
+                            },
+                            "children": [
+                              {
+                                "tag": "div",
+                                "attributes": {
+                                  "data-mesh-id": "Containeryzs62inlineContent-gridContainer",
+                                  "data-testid": "mesh-container-content"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "section",
+                                    "attributes": {
+                                      "id": "comp-mkuej8sy",
+                                      "tabindex": "-1",
+                                      "class": "Le88gL comp-mkuej8sy wixui-section",
+                                      "data-block-level-container": "ClassicSection"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "id": "bgLayers_comp-mkuej8sy",
+                                          "data-hook": "bgLayers",
+                                          "data-motion-part": "BG_LAYER comp-mkuej8sy",
+                                          "class": "QG9w8P"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "data-testid": "colorUnderlay",
+                                              "class": "LNYVZi ayCf9D"
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "id": "bgMedia_comp-mkuej8sy",
+                                              "data-motion-part": "BG_MEDIA comp-mkuej8sy",
+                                              "class": "ROWgFb"
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "data-mesh-id": "comp-mkuej8syinlineContent",
+                                          "data-testid": "inline-content",
+                                          "class": ""
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "data-mesh-id": "comp-mkuej8syinlineContent-gridContainer",
+                                              "data-testid": "mesh-container-content"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "section",
+                                                "attributes": {
+                                                  "id": "comp-mkuej8t71",
+                                                  "class": "comp-mkuej8t71 CeUMmm wixui-column-strip"
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "div",
+                                                    "attributes": {
+                                                      "id": "bgLayers_comp-mkuej8t71",
+                                                      "data-hook": "bgLayers",
+                                                      "data-motion-part": "BG_LAYER comp-mkuej8t71",
+                                                      "class": "ktMZav"
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "tag": "div",
+                                                        "attributes": {
+                                                          "data-testid": "colorUnderlay",
+                                                          "class": "V9k0ll etGVsi"
+                                                        },
+                                                        "children": []
+                                                      },
+                                                      {
+                                                        "tag": "div",
+                                                        "attributes": {
+                                                          "id": "bgMedia_comp-mkuej8t71",
+                                                          "data-motion-part": "BG_MEDIA comp-mkuej8t71",
+                                                          "class": "etSQ9j"
+                                                        },
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "tag": "div",
+                                                    "attributes": {
+                                                      "data-testid": "columns",
+                                                      "class": "Ak0vpt"
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "tag": "div",
+                                                        "attributes": {
+                                                          "id": "comp-mkuej8tc",
+                                                          "class": "comp-mkuej8tc FDI5TK wixui-column-strip__column"
+                                                        },
+                                                        "children": [
+                                                          {
+                                                            "tag": "div",
+                                                            "attributes": {
+                                                              "id": "bgLayers_comp-mkuej8tc",
+                                                              "data-hook": "bgLayers",
+                                                              "data-motion-part": "BG_LAYER comp-mkuej8tc",
+                                                              "class": "QG9w8P"
+                                                            },
+                                                            "children": [
+                                                              {
+                                                                "tag": "div",
+                                                                "attributes": {
+                                                                  "data-testid": "colorUnderlay",
+                                                                  "class": "LNYVZi ayCf9D"
+                                                                },
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "tag": "div",
+                                                                "attributes": {
+                                                                  "id": "bgMedia_comp-mkuej8tc",
+                                                                  "data-motion-part": "BG_MEDIA comp-mkuej8tc",
+                                                                  "class": "ROWgFb"
+                                                                },
+                                                                "children": []
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "tag": "div",
+                                                            "attributes": {
+                                                              "data-mesh-id": "comp-mkuej8tcinlineContent",
+                                                              "data-testid": "inline-content",
+                                                              "class": ""
+                                                            },
+                                                            "children": [
+                                                              {
+                                                                "tag": "div",
+                                                                "attributes": {
+                                                                  "data-mesh-id": "comp-mkuej8tcinlineContent-gridContainer",
+                                                                  "data-testid": "mesh-container-content"
+                                                                },
+                                                                "children": [
+                                                                  {
+                                                                    "tag": "section",
+                                                                    "attributes": {
+                                                                      "id": "comp-mkuej8td2",
+                                                                      "class": "comp-mkuej8td2 CeUMmm wixui-column-strip"
+                                                                    },
+                                                                    "children": [
+                                                                      {
+                                                                        "tag": "div",
+                                                                        "attributes": {
+                                                                          "id": "bgLayers_comp-mkuej8td2",
+                                                                          "data-hook": "bgLayers",
+                                                                          "data-motion-part": "BG_LAYER comp-mkuej8td2",
+                                                                          "class": "ktMZav"
+                                                                        },
+                                                                        "children": [
+                                                                          {
+                                                                            "tag": "div",
+                                                                            "attributes": {
+                                                                              "data-testid": "colorUnderlay",
+                                                                              "class": "V9k0ll etGVsi"
+                                                                            },
+                                                                            "children": []
+                                                                          },
+                                                                          {
+                                                                            "tag": "div",
+                                                                            "attributes": {
+                                                                              "id": "bgMedia_comp-mkuej8td2",
+                                                                              "data-motion-part": "BG_MEDIA comp-mkuej8td2",
+                                                                              "class": "etSQ9j"
+                                                                            },
+                                                                            "children": []
+                                                                          }
+                                                                        ]
+                                                                      },
+                                                                      {
+                                                                        "tag": "div",
+                                                                        "attributes": {
+                                                                          "data-testid": "columns",
+                                                                          "class": "Ak0vpt"
+                                                                        },
+                                                                        "children": [
+                                                                          {
+                                                                            "tag": "div",
+                                                                            "attributes": {
+                                                                              "id": "comp-mkuej8te4",
+                                                                              "class": "comp-mkuej8te4 FDI5TK wixui-column-strip__column"
+                                                                            },
+                                                                            "children": [
+                                                                              {
+                                                                                "tag": "div",
+                                                                                "attributes": {
+                                                                                  "id": "bgLayers_comp-mkuej8te4",
+                                                                                  "data-hook": "bgLayers",
+                                                                                  "data-motion-part": "BG_LAYER comp-mkuej8te4",
+                                                                                  "class": "QG9w8P"
+                                                                                },
+                                                                                "children": [
+                                                                                  {
+                                                                                    "tag": "div",
+                                                                                    "attributes": {
+                                                                                      "data-testid": "colorUnderlay",
+                                                                                      "class": "LNYVZi ayCf9D"
+                                                                                    },
+                                                                                    "children": []
+                                                                                  },
+                                                                                  {
+                                                                                    "tag": "div",
+                                                                                    "attributes": {
+                                                                                      "id": "bgMedia_comp-mkuej8te4",
+                                                                                      "data-motion-part": "BG_MEDIA comp-mkuej8te4",
+                                                                                      "class": "ROWgFb"
+                                                                                    },
+                                                                                    "children": []
+                                                                                  }
+                                                                                ]
+                                                                              },
+                                                                              {
+                                                                                "tag": "div",
+                                                                                "attributes": {
+                                                                                  "data-mesh-id": "comp-mkuej8te4inlineContent",
+                                                                                  "data-testid": "inline-content",
+                                                                                  "class": ""
+                                                                                },
+                                                                                "children": [
+                                                                                  {
+                                                                                    "tag": "div",
+                                                                                    "attributes": {
+                                                                                      "data-mesh-id": "comp-mkuej8te4inlineContent-gridContainer",
+                                                                                      "data-testid": "mesh-container-content"
+                                                                                    },
+                                                                                    "children": [
+                                                                                      {
+                                                                                        "tag": "div",
+                                                                                        "attributes": {
+                                                                                          "id": "comp-mkuej8tf5",
+                                                                                          "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-mkuej8tf5 wixui-rich-text",
+                                                                                          "data-testid": "richTextElement"
+                                                                                        },
+                                                                                        "children": [
+                                                                                          {
+                                                                                            "tag": "h1",
+                                                                                            "attributes": {
+                                                                                              "class": "font_4 wixui-rich-text__text",
+                                                                                              "style": "font-size:40px; line-height:1.35em; text-align:left;"
+                                                                                            },
+                                                                                            "children": [
+                                                                                              {
+                                                                                                "tag": "span",
+                                                                                                "attributes": {
+                                                                                                  "style": "font-size:40px;",
+                                                                                                  "class": "wixui-rich-text__text"
+                                                                                                },
+                                                                                                "children": [
+                                                                                                  {
+                                                                                                    "tag": "span",
+                                                                                                    "attributes": {
+                                                                                                      "style": "letter-spacing:normal;",
+                                                                                                      "class": "wixui-rich-text__text"
+                                                                                                    },
+                                                                                                    "children": [
+                                                                                                      {
+                                                                                                        "tag": "span",
+                                                                                                        "attributes": {
+                                                                                                          "class": "color_45 wixui-rich-text__text"
+                                                                                                        },
+                                                                                                        "children": [
+                                                                                                          "Maps"
+                                                                                                        ]
+                                                                                                      }
+                                                                                                    ]
+                                                                                                  }
+                                                                                                ]
+                                                                                              }
+                                                                                            ]
+                                                                                          }
+                                                                                        ]
+                                                                                      }
+                                                                                    ]
+                                                                                  }
+                                                                                ]
+                                                                              }
+                                                                            ]
+                                                                          }
+                                                                        ]
+                                                                      }
+                                                                    ]
+                                                                  }
+                                                                ]
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "section",
+                                    "attributes": {
+                                      "id": "comp-mkuej8ti",
+                                      "tabindex": "-1",
+                                      "class": "Le88gL comp-mkuej8ti wixui-section",
+                                      "data-block-level-container": "ClassicSection"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "id": "bgLayers_comp-mkuej8ti",
+                                          "data-hook": "bgLayers",
+                                          "data-motion-part": "BG_LAYER comp-mkuej8ti",
+                                          "class": "QG9w8P"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "data-testid": "colorUnderlay",
+                                              "class": "LNYVZi ayCf9D"
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "id": "bgMedia_comp-mkuej8ti",
+                                              "data-motion-part": "BG_MEDIA comp-mkuej8ti",
+                                              "class": "ROWgFb"
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "data-mesh-id": "comp-mkuej8tiinlineContent",
+                                          "data-testid": "inline-content",
+                                          "class": ""
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "data-mesh-id": "comp-mkuej8tiinlineContent-gridContainer",
+                                              "data-testid": "mesh-container-content"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "id": "comp-mkuej8tj1",
+                                                  "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-mkuej8tj1 wixui-rich-text",
+                                                  "data-testid": "richTextElement"
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "p",
+                                                    "attributes": {
+                                                      "class": "font_8 wixui-rich-text__text",
+                                                      "style": "font-size:23px; line-height:1.5em;"
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "tag": "span",
+                                                        "attributes": {
+                                                          "class": "color_36 wixui-rich-text__text"
+                                                        },
+                                                        "children": [
+                                                          {
+                                                            "tag": "span",
+                                                            "attributes": {
+                                                              "style": "font-size:23px;",
+                                                              "class": "wixui-rich-text__text"
+                                                            },
+                                                            "children": [
+                                                              {
+                                                                "tag": "span",
+                                                                "attributes": {
+                                                                  "style": "letter-spacing:0.05em;",
+                                                                  "class": "wixui-rich-text__text"
+                                                                },
+                                                                "children": [
+                                                                  "Jared L. Cohon University Center, 1st and 2nd floors"
+                                                                ]
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "id": "comp-mkuej8tk4",
+                                                  "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-mkuej8tk4 wixui-rich-text",
+                                                  "data-testid": "richTextElement"
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "p",
+                                                    "attributes": {
+                                                      "class": "font_8 wixui-rich-text__text",
+                                                      "style": "font-size:16px; line-height:1.8em;"
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "tag": "span",
+                                                        "attributes": {
+                                                          "class": "color_36 wixui-rich-text__text"
+                                                        },
+                                                        "children": [
+                                                          "5032 Forbes Ave."
+                                                        ]
+                                                      }
+                                                    ]
+                                                  },
+                                                  "\n\n",
+                                                  {
+                                                    "tag": "p",
+                                                    "attributes": {
+                                                      "class": "font_8 wixui-rich-text__text",
+                                                      "style": "font-size:16px; line-height:1.8em;"
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "tag": "span",
+                                                        "attributes": {
+                                                          "class": "color_36 wixui-rich-text__text"
+                                                        },
+                                                        "children": [
+                                                          "Pittsburgh, PA 15213"
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "section",
+                                    "attributes": {
+                                      "id": "comp-mkuej8tm",
+                                      "tabindex": "-1",
+                                      "class": "Le88gL comp-mkuej8tm wixui-section",
+                                      "data-block-level-container": "ClassicSection"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "id": "bgLayers_comp-mkuej8tm",
+                                          "data-hook": "bgLayers",
+                                          "data-motion-part": "BG_LAYER comp-mkuej8tm",
+                                          "class": "QG9w8P"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "data-testid": "colorUnderlay",
+                                              "class": "LNYVZi ayCf9D"
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "id": "bgMedia_comp-mkuej8tm",
+                                              "data-motion-part": "BG_MEDIA comp-mkuej8tm",
+                                              "class": "ROWgFb"
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "data-mesh-id": "comp-mkuej8tminlineContent",
+                                          "data-testid": "inline-content",
+                                          "class": ""
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "data-mesh-id": "comp-mkuej8tminlineContent-gridContainer",
+                                              "data-testid": "mesh-container-content"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "id": "comp-mkuekr6a",
+                                                  "class": "W4V2qg comp-mkuekr6a wixui-image cs40a3",
+                                                  "title": "76b4fe_15ad853e743a4d5b9f913bc2c39902de~mv2.png"
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "div",
+                                                    "attributes": {
+                                                      "data-testid": "linkElement",
+                                                      "class": "apPOZK"
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "tag": "img",
+                                                        "attributes": {
+                                                          "fetchpriority": "high",
+                                                          "id": "img_comp-mkuekr6a",
+                                                          "src": "/original-site/cohon-map-jpg-c28f48fbbad0.jpg",
+                                                          "alt": "cohon_map.jpg",
+                                                          "style": "object-fit:cover",
+                                                          "class": "gRkIq0 sFiSiq",
+                                                          "width": "574",
+                                                          "height": "854"
+                                                        },
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "id": "comp-mkuem69n",
+                                                  "class": "W4V2qg comp-mkuem69n wixui-image",
+                                                  "title": "fe47af_3f101d012f61466bbf9d24b289a3c2a2~mv2.png"
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "div",
+                                                    "attributes": {
+                                                      "data-testid": "linkElement",
+                                                      "class": "apPOZK"
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "tag": "img",
+                                                        "attributes": {
+                                                          "fetchpriority": "high",
+                                                          "id": "img_comp-mkuem69n",
+                                                          "src": "/original-site/untitled-artwork-246-png-10d743190cda.png",
+                                                          "alt": "Untitled_Artwork 246.png",
+                                                          "style": "object-fit:cover",
+                                                          "class": "gRkIq0 sFiSiq",
+                                                          "width": "210",
+                                                          "height": "210"
+                                                        },
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "id": "comp-mkuetvau",
+                                                  "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-mkuetvau wixui-rich-text",
+                                                  "data-testid": "richTextElement"
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "h4",
+                                                    "attributes": {
+                                                      "class": "font_4 wixui-rich-text__text",
+                                                      "style": "text-align:center; font-size:30px;"
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "tag": "span",
+                                                        "attributes": {
+                                                          "style": "font-weight:bold;",
+                                                          "class": "wixui-rich-text__text"
+                                                        },
+                                                        "children": [
+                                                          {
+                                                            "tag": "span",
+                                                            "attributes": {
+                                                              "class": "wixui-rich-text__text"
+                                                            },
+                                                            "children": [
+                                                              "Venue Map"
+                                                            ]
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "id": "comp-mkueqwbn",
+                                                  "class": "W4V2qg comp-mkueqwbn wixui-image",
+                                                  "title": "76b4fe_757348aa61de438bbb6c7bf2271fa116~mv2.jpg"
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "div",
+                                                    "attributes": {
+                                                      "data-testid": "linkElement",
+                                                      "class": "apPOZK"
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "tag": "img",
+                                                        "attributes": {
+                                                          "loading": "lazy",
+                                                          "id": "img_comp-mkueqwbn",
+                                                          "src": "/original-site/cohon-map-2f-jpg-93f0fd2ed11a.jpg",
+                                                          "alt": "cohon_map_2f.jpg",
+                                                          "style": "object-fit:cover",
+                                                          "class": "gRkIq0 sFiSiq",
+                                                          "width": "574",
+                                                          "height": "890"
+                                                        },
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "id": "comp-mkuez5v7",
+                                                  "class": "W4V2qg comp-mkuez5v7 wixui-image",
+                                                  "title": "76b4fe_fa0ac1b09f564650b73ce8a385728080~mv2.png"
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "div",
+                                                    "attributes": {
+                                                      "data-testid": "linkElement",
+                                                      "class": "apPOZK"
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "tag": "img",
+                                                        "attributes": {
+                                                          "loading": "lazy",
+                                                          "id": "img_comp-mkuez5v7",
+                                                          "src": "/original-site/scon-cytus-scotty-png-31dddf54e77b.png",
+                                                          "alt": "scon_cytus_scotty.png",
+                                                          "style": "object-fit:cover",
+                                                          "class": "gRkIq0 sFiSiq",
+                                                          "width": "195",
+                                                          "height": "195"
+                                                        },
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "id": "comp-mkuey244",
+                                                  "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-mkuey244 wixui-rich-text",
+                                                  "data-testid": "richTextElement"
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "h4",
+                                                    "attributes": {
+                                                      "class": "font_4 wixui-rich-text__text",
+                                                      "style": "text-align:center; font-size:24px;"
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "tag": "span",
+                                                        "attributes": {
+                                                          "style": "font-size:30px;",
+                                                          "class": "wixui-rich-text__text"
+                                                        },
+                                                        "children": [
+                                                          {
+                                                            "tag": "span",
+                                                            "attributes": {
+                                                              "style": "font-weight:bold;",
+                                                              "class": "wixui-rich-text__text"
+                                                            },
+                                                            "children": [
+                                                              "Directions to Cohon Center"
+                                                            ]
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "tag": "br",
+                                                        "attributes": {
+                                                          "class": "wixui-rich-text__text"
+                                                        },
+                                                        "children": []
+                                                      },
+                                                      "\n",
+                                                      {
+                                                        "tag": "span",
+                                                        "attributes": {
+                                                          "style": "font-size:24px;",
+                                                          "class": "wixui-rich-text__text"
+                                                        },
+                                                        "children": [
+                                                          "5032 Forbes Ave, Pittsburgh, PA 15213"
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "id": "comp-mkuf0kpq",
+                                                  "class": "DDi8v8 comp-mkuf0kpq wixui-google-map"
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "id": "comp-mkuf2gsp",
+                                                  "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-mkuf2gsp wixui-rich-text",
+                                                  "data-testid": "richTextElement"
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "h4",
+                                                    "attributes": {
+                                                      "class": "font_4 wixui-rich-text__text",
+                                                      "style": "text-align:center; font-size:30px;"
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "tag": "span",
+                                                        "attributes": {
+                                                          "style": "font-weight:bold;",
+                                                          "class": "wixui-rich-text__text"
+                                                        },
+                                                        "children": [
+                                                          {
+                                                            "tag": "span",
+                                                            "attributes": {
+                                                              "class": "wixui-rich-text__text"
+                                                            },
+                                                            "children": [
+                                                              "Directions to Morewood Parking (Free)"
+                                                            ]
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "tag": "br",
+                                                        "attributes": {
+                                                          "class": "wixui-rich-text__text"
+                                                        },
+                                                        "children": []
+                                                      },
+                                                      "\n",
+                                                      {
+                                                        "tag": "span",
+                                                        "attributes": {
+                                                          "style": "font-size:23px;",
+                                                          "class": "wixui-rich-text__text"
+                                                        },
+                                                        "children": [
+                                                          "1048 Morewood Ave, Pittsburgh, PA 15213"
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "id": "comp-mkuf2smj",
+                                                  "class": "DDi8v8 comp-mkuf2smj wixui-google-map"
+                                                },
+                                                "children": []
+                                              },
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "id": "comp-mkuf8287",
+                                                  "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-mkuf8287 wixui-rich-text",
+                                                  "data-testid": "richTextElement"
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "h4",
+                                                    "attributes": {
+                                                      "class": "font_4 wixui-rich-text__text",
+                                                      "style": "font-size:30px;"
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "tag": "span",
+                                                        "attributes": {
+                                                          "style": "text-decoration:underline;",
+                                                          "class": "wixui-rich-text__text"
+                                                        },
+                                                        "children": [
+                                                          {
+                                                            "tag": "a",
+                                                            "attributes": {
+                                                              "href": "https://www.cmu.edu/transportation/park/visitor.html",
+                                                              "target": "_blank",
+                                                              "rel": "noreferrer noopener",
+                                                              "class": "wixui-rich-text__text"
+                                                            },
+                                                            "children": [
+                                                              "Other parking lots (paid)"
+                                                            ]
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "tag": "footer",
+    "attributes": {
+      "id": "SITE_FOOTER",
+      "class": "MLzr0a SITE_FOOTER wixui-footer",
+      "tabindex": "-1"
+    },
+    "children": [
+      {
+        "tag": "div",
+        "attributes": {
+          "class": "uZIV9d"
+        },
+        "children": [
+          {
+            "tag": "div",
+            "attributes": {
+              "id": "bgLayers_SITE_FOOTER",
+              "data-hook": "bgLayers",
+              "data-motion-part": "BG_LAYER SITE_FOOTER",
+              "class": "QG9w8P XzOkCb"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attributes": {
+                  "data-testid": "colorUnderlay",
+                  "class": "LNYVZi ayCf9D"
+                },
+                "children": []
+              },
+              {
+                "tag": "div",
+                "attributes": {
+                  "id": "bgMedia_SITE_FOOTER",
+                  "data-motion-part": "BG_MEDIA SITE_FOOTER",
+                  "class": "ROWgFb"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attributes": {
+              "class": "ncI7Xj"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "tag": "div",
+        "attributes": {
+          "class": "XKFSfx"
+        },
+        "children": [
+          {
+            "tag": "div",
+            "attributes": {
+              "data-mesh-id": "SITE_FOOTERinlineContent",
+              "data-testid": "inline-content",
+              "class": ""
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attributes": {
+                  "data-mesh-id": "SITE_FOOTERinlineContent-gridContainer",
+                  "data-testid": "mesh-container-content"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "id": "comp-iqtf112x",
+                      "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-iqtf112x wixui-rich-text",
+                      "data-testid": "richTextElement"
+                    },
+                    "children": [
+                      {
+                        "tag": "h4",
+                        "attributes": {
+                          "class": "font_4 wixui-rich-text__text",
+                          "style": "line-height:1.78em; font-size:30px;"
+                        },
+                        "children": [
+                          {
+                            "tag": "span",
+                            "attributes": {
+                              "style": "color:#FFFFFF;",
+                              "class": "wixui-rich-text__text"
+                            },
+                            "children": [
+                              {
+                                "tag": "span",
+                                "attributes": {
+                                  "style": "font-weight:bold;",
+                                  "class": "wixui-rich-text__text"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "a",
+                                    "attributes": {
+                                      "href": "https://www.scottycon.com",
+                                      "target": "_self",
+                                      "class": "wixui-rich-text__text"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "span",
+                                        "attributes": {
+                                          "style": "letter-spacing:0.05em;",
+                                          "class": "wixui-rich-text__text"
+                                        },
+                                        "children": [
+                                          "ScottyCon"
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "id": "comp-iqteyfn5",
+                      "class": "comp-iqteyfn5 w4DepW"
+                    },
+                    "children": [
+                      {
+                        "tag": "ul",
+                        "attributes": {
+                          "class": "tN_ggS",
+                          "aria-label": "Social Bar"
+                        },
+                        "children": [
+                          {
+                            "tag": "li",
+                            "attributes": {
+                              "id": "dataItem-iqteyfno2-comp-iqteyfn5",
+                              "class": "re13Ik"
+                            },
+                            "children": [
+                              {
+                                "tag": "a",
+                                "attributes": {
+                                  "data-testid": "linkElement",
+                                  "href": "https://www.instagram.com/scottycon.official/",
+                                  "target": "_blank",
+                                  "rel": "noreferrer noopener",
+                                  "class": "twXk19",
+                                  "aria-label": "White Instagram Icon"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "img",
+                                    "attributes": {
+                                      "id": "img_0_comp-iqteyfn5",
+                                      "src": "/original-site/white-instagram-icon-2915ee450ede.png",
+                                      "alt": "White Instagram Icon",
+                                      "style": "object-fit:cover",
+                                      "class": "ZK9snE sFiSiq",
+                                      "width": "37",
+                                      "height": "37"
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "li",
+                            "attributes": {
+                              "id": "dataItem-iqteyfnn-comp-iqteyfn5",
+                              "class": "re13Ik"
+                            },
+                            "children": [
+                              {
+                                "tag": "a",
+                                "attributes": {
+                                  "data-testid": "linkElement",
+                                  "href": "https://twitter.com/CMUScottyCon",
+                                  "target": "_blank",
+                                  "rel": "noreferrer noopener",
+                                  "class": "twXk19",
+                                  "aria-label": "White Twitter Icon"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "img",
+                                    "attributes": {
+                                      "id": "img_1_comp-iqteyfn5",
+                                      "src": "/original-site/white-twitter-icon-a44c7ff63542.png",
+                                      "alt": "White Twitter Icon",
+                                      "style": "object-fit:cover",
+                                      "class": "ZK9snE sFiSiq",
+                                      "width": "37",
+                                      "height": "37"
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "li",
+                            "attributes": {
+                              "id": "dataItem-iqteyfnh1-comp-iqteyfn5",
+                              "class": "re13Ik"
+                            },
+                            "children": [
+                              {
+                                "tag": "a",
+                                "attributes": {
+                                  "data-testid": "linkElement",
+                                  "href": "https://www.facebook.com/CMUScottyCon",
+                                  "target": "_blank",
+                                  "rel": "noreferrer noopener",
+                                  "class": "twXk19",
+                                  "aria-label": "White Facebook Icon"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "img",
+                                    "attributes": {
+                                      "id": "img_2_comp-iqteyfn5",
+                                      "src": "/original-site/white-facebook-icon-bfc8ec872100.png",
+                                      "alt": "White Facebook Icon",
+                                      "style": "object-fit:cover",
+                                      "class": "ZK9snE sFiSiq",
+                                      "width": "37",
+                                      "height": "37"
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "li",
+                            "attributes": {
+                              "id": "dataItem-l9hgr4qf-comp-iqteyfn5",
+                              "class": "re13Ik"
+                            },
+                            "children": [
+                              {
+                                "tag": "a",
+                                "attributes": {
+                                  "data-testid": "linkElement",
+                                  "href": "mailto:scottycon@andrew.cmu.edu?subject=ScottyCon%20-%20General%20Inquiry",
+                                  "target": "_self",
+                                  "class": "twXk19",
+                                  "aria-label": "email"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "img",
+                                    "attributes": {
+                                      "id": "img_3_comp-iqteyfn5",
+                                      "src": "/original-site/email-3384feed077f.png",
+                                      "alt": "email",
+                                      "style": "object-fit:cover",
+                                      "class": "ZK9snE sFiSiq",
+                                      "width": "37",
+                                      "height": "37"
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "id": "comp-iqtfvy0l",
+                      "class": "sEUU4o comp-iqtfvy0l"
+                    },
+                    "children": [
+                      {
+                        "tag": "div",
+                        "attributes": {
+                          "class": "CKGc0j wixui-vertical-line"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "id": "comp-iqhzxsa8",
+                      "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-iqhzxsa8 wixui-rich-text",
+                      "data-testid": "richTextElement"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attributes": {
+                          "class": "font_8 wixui-rich-text__text",
+                          "style": "line-height:1.8em; font-size:16px;"
+                        },
+                        "children": [
+                          {
+                            "tag": "span",
+                            "attributes": {
+                              "style": "letter-spacing:0.05em;",
+                              "class": "wixui-rich-text__text"
+                            },
+                            "children": [
+                              "Jared L. Cohon University Center"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attributes": {
+                          "class": "font_8 wixui-rich-text__text",
+                          "style": "line-height:1.8em; font-size:16px;"
+                        },
+                        "children": [
+                          {
+                            "tag": "span",
+                            "attributes": {
+                              "style": "letter-spacing:0.05em;",
+                              "class": "wixui-rich-text__text"
+                            },
+                            "children": [
+                              "5032 Forbes Ave,"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attributes": {
+                          "class": "font_8 wixui-rich-text__text",
+                          "style": "line-height:1.8em; font-size:16px;"
+                        },
+                        "children": [
+                          {
+                            "tag": "span",
+                            "attributes": {
+                              "style": "letter-spacing:0.05em;",
+                              "class": "wixui-rich-text__text"
+                            },
+                            "children": [
+                              "Pittsburgh, PA 15213"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "id": "comp-iqtfw9ms",
+                      "class": "sEUU4o comp-iqtfw9ms"
+                    },
+                    "children": [
+                      {
+                        "tag": "div",
+                        "attributes": {
+                          "class": "CKGc0j wixui-vertical-line"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "id": "comp-iqhzu2py",
+                      "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-iqhzu2py wixui-rich-text",
+                      "data-testid": "richTextElement"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attributes": {
+                          "class": "font_8 wixui-rich-text__text",
+                          "style": "line-height:1.8em; font-size:16px;"
+                        },
+                        "children": [
+                          {
+                            "tag": "span",
+                            "attributes": {
+                              "style": "letter-spacing:normal;",
+                              "class": "wixui-rich-text__text"
+                            },
+                            "children": [
+                              "03.27.2027"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attributes": {
+                          "class": "font_8 wixui-rich-text__text",
+                          "style": "line-height:1.8em; font-size:16px;"
+                        },
+                        "children": [
+                          {
+                            "tag": "span",
+                            "attributes": {
+                              "style": "letter-spacing:normal;",
+                              "class": "wixui-rich-text__text"
+                            },
+                            "children": [
+                              "11 AM - 9 PM"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "id": "comp-iqten8wy",
+                      "class": "comp-iqten8wy nJiBti wixui-horizontal-line"
+                    },
+                    "children": []
+                  },
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "id": "comp-iqhzvdpp",
+                      "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-iqhzvdpp wixui-rich-text",
+                      "data-testid": "richTextElement"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attributes": {
+                          "class": "font_8 wixui-rich-text__text",
+                          "style": "line-height:normal; font-size:16px;"
+                        },
+                        "children": [
+                          {
+                            "tag": "span",
+                            "attributes": {
+                              "style": "letter-spacing:normal;",
+                              "class": "wixui-rich-text__text"
+                            },
+                            "children": [
+                              "© 2027 "
+                            ]
+                          },
+                          {
+                            "tag": "span",
+                            "attributes": {
+                              "style": "letter-spacing:normal;",
+                              "class": "wixui-rich-text__text"
+                            },
+                            "children": [
+                              "by ScottyCon"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

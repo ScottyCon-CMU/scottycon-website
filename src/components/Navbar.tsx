@@ -1,4 +1,6 @@
 import { NavLink } from 'react-router-dom'
+import { useOriginalHome } from './original-home/context'
+import { Markup } from './original-home/Markup'
 
 const links = [
   { to: '/', label: 'Home' },
@@ -11,6 +13,8 @@ const links = [
 ]
 
 function NavBar() {
+  const original = useOriginalHome()
+  if (original) return <Markup node={original.page.header} />
   return (
     <header className="navbar">
       <nav>

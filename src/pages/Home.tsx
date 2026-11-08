@@ -1,11 +1,9 @@
+import { useOriginalHome } from '../components/original-home/context'
+import { Markup } from '../components/original-home/Markup'
+
 function Home() {
-  return (
-    <section>
-      {/* TODO: hero, dates, and highlights */}
-      <h1>ScottyCon</h1>
-      <p>Welcome to ScottyCon! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-    </section>
-  )
+  const original = useOriginalHome()
+  return original ? <Markup node={original.page.content} /> : null
 }
 
 export default Home
