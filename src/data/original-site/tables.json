@@ -1,0 +1,236 @@
+{
+  "comp-mku98peb6": {
+    "route": "panels",
+    "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS626PrdTnx20clrOOfGqfkOcapWDSPgezW_NITUCkPdvrAP8e59PhUqroBz8nZ4EyCAZYO4394xy5a/pub?gid=171969782&single=true&output=csv",
+    "rows": [
+      [
+        "Time",
+        "Title",
+        "Panelist",
+        "Type"
+      ],
+      [
+        "11:30 - 12:30",
+        "Lolita 101: A beginners guide to J-fashion",
+        "Kei-mart",
+        "Panel"
+      ],
+      [
+        "12:45 - 1:30",
+        "Rating your OTPs: Ship or Skip?",
+        "Petrichor",
+        "Interactive Panel"
+      ],
+      [
+        "1:45 - 2:30",
+        "Pokemon Jeopardy",
+        "Zaylese Ali-Orlena and Rashad Moore",
+        "Interactive Panel"
+      ],
+      [
+        "2:45 - 3:30",
+        "“It’s Morphin’ Time!” Adapting Super Sentai for the Western Audience",
+        "Brigitte Galauner & James Austin",
+        "Panel"
+      ],
+      [
+        "3:45 - 4:45",
+        "Lip Sync for Your Cosplay!",
+        "Agape (agapecos) and Miles (starrdustss)",
+        "Interactive Panel"
+      ],
+      [
+        "5:00 - 5:30",
+        "Japanese Racehorse or Perfume Scent?",
+        "Audra",
+        "Panel"
+      ],
+      [
+        "5:45 - 6:30",
+        "Bring Your Hobbies Into Cosplay",
+        "Juliana (Eclipse Arts)",
+        "Panel"
+      ],
+      [
+        "6:45 - 7:45",
+        "Majima is Everywhere! A look at the real life insperations of the Yakuza series.",
+        "Kawaii Neko Productions",
+        "Panel"
+      ],
+      [
+        "8:00 - 9:00",
+        "Karaoke",
+        "ScottyCon Staff",
+        "Event"
+      ]
+    ],
+    "parameters": {
+      "dataSource": "inline",
+      "paginate": false,
+      "columns": 3,
+      "pageSize": 5,
+      "sortable": false,
+      "showHeaderFooter": false,
+      "appHeight": "auto",
+      "filter": false,
+      "radius": 4,
+      "mobileView": "expand",
+      "expandIconSize": "default",
+      "expandIconStyle": "default",
+      "filterText": "Search...",
+      "alignment": "center",
+      "columnsOnOff": false,
+      "showGradient": false,
+      "innerBorderWidth": 1,
+      "outerBorderWidth": 0
+    },
+    "csv_sha256": "eed08fc14f42e44a605a3e457170e654e217c177821aaf96d1cf66370180e27b"
+  },
+  "comp-mku98pef10": {
+    "route": "panels",
+    "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS626PrdTnx20clrOOfGqfkOcapWDSPgezW_NITUCkPdvrAP8e59PhUqroBz8nZ4EyCAZYO4394xy5a/pub?gid=1546670953&single=true&output=csv",
+    "rows": [
+      [
+        "Time",
+        "Title",
+        "Panelist",
+        "Type"
+      ],
+      [
+        "11:30 - 12:30",
+        "Cinema of the Rising Sun: How to Get Into Japanese Film",
+        "Blackmoore Presents",
+        "Panel"
+      ],
+      [
+        "12:45 - 1:45",
+        "Domain Expansion Touchdown: The NFL for Anime Fans",
+        "Bamforth Panels",
+        "Panel"
+      ],
+      [
+        "2:00 - 3:00",
+        "Made in the 1900's: \"Old\" Anime Worth the Watch.",
+        "Kawaii Neko Productions",
+        "Panel"
+      ],
+      [
+        "3:30 - 4:15",
+        "Why Cooking is Better in Video Games",
+        "n00dl3g@l",
+        "Panel"
+      ],
+      [
+        "4:30 - 5:30",
+        "Samurai Cinema Showdown",
+        "Blackmoore Presents",
+        "Panel"
+      ],
+      [
+        "5:45 - 6:45",
+        "Wits & Wagers",
+        "Vermillion Anime Club",
+        "Game"
+      ],
+      [
+        "7:00 - 8:00",
+        "What Is Twisted Wonderland",
+        "Audra Tewell",
+        "Panel"
+      ]
+    ],
+    "parameters": {
+      "dataSource": "inline",
+      "paginate": false,
+      "columns": 3,
+      "pageSize": 5,
+      "sortable": false,
+      "showHeaderFooter": false,
+      "appHeight": "auto",
+      "filter": false,
+      "radius": 4,
+      "mobileView": "expand",
+      "expandIconSize": "default",
+      "expandIconStyle": "default",
+      "filterText": "Search...",
+      "alignment": "center",
+      "columnsOnOff": false,
+      "showGradient": false,
+      "innerBorderWidth": 1,
+      "outerBorderWidth": 0
+    },
+    "csv_sha256": "3088e1a9e847084eb66755b4581d1e39e63ebf00c9f80f67f00e4c18189362a6"
+  },
+  "comp-mku9d2nt6": {
+    "route": "performances",
+    "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSlpxusEZ6FWpCCstESPlBMF3wsJK_8zv4DgWZJzhb-BhQ5ur016u3htze-V2HlsfvyiQKw1hP9uGk9/pub?gid=0&single=true&output=csv",
+    "rows": [
+      [
+        "Start Time",
+        "Event",
+        "Group"
+      ],
+      [
+        "12:00 PM",
+        "ScottyFest",
+        "Independent Performers"
+      ],
+      [
+        "1:30 PM",
+        "Guest of Honor",
+        "Phoebe-chan"
+      ],
+      [
+        "3:00 PM",
+        "CMU Jazz Club Performance",
+        "CMU Jazz Club"
+      ],
+      [
+        "4:00 PM",
+        "Wind Ensemble Performance",
+        "Tartan Wind Ensemble"
+      ],
+      [
+        "5:00 PM",
+        "Masquerade",
+        "Independent Performers"
+      ],
+      [
+        "6:00 PM",
+        "Girl Band Party!!!!!",
+        "HamachiKama"
+      ],
+      [
+        "6:30 PM",
+        "VGM and Anime Rock On Flute",
+        "Katie Shesko"
+      ],
+      [
+        "7:30 PM",
+        "J-Pop Band Performance",
+        "Arthur & Friends"
+      ]
+    ],
+    "parameters": {
+      "dataSource": "inline",
+      "paginate": false,
+      "columns": 3,
+      "pageSize": 5,
+      "sortable": false,
+      "showHeaderFooter": false,
+      "appHeight": "auto",
+      "filter": false,
+      "radius": 4,
+      "mobileView": "expand",
+      "expandIconSize": "default",
+      "expandIconStyle": "default",
+      "filterText": "Search...",
+      "alignment": "center",
+      "columnsOnOff": false,
+      "showGradient": false,
+      "innerBorderWidth": 1,
+      "outerBorderWidth": 0
+    },
+    "csv_sha256": "e8881f74b20252896a95c6f4642110b6aa15a684cb14a88ce7c091a4d38a6fa6"
+  }
+}

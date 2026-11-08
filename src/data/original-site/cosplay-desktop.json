@@ -1,0 +1,2973 @@
+{
+  "source": "https://www.scottycon.com/cosplay",
+  "title": "Masquerade | ScottyCon",
+  "viewport": "width=device-width, initial-scale=1",
+  "bodyClass": "",
+  "htmlStyle": "",
+  "shell": {
+    "tag": "div",
+    "attributes": {
+      "id": "SITE_CONTAINER"
+    },
+    "children": [
+      {
+        "tag": "div",
+        "attributes": {
+          "id": "main_MF",
+          "class": "main_MF"
+        },
+        "children": [
+          {
+            "tag": "div",
+            "attributes": {
+              "id": "SCROLL_TO_TOP",
+              "class": "qe3oTb ignore-focus SCROLL_TO_TOP",
+              "role": "region",
+              "tabindex": "-1",
+              "aria-label": "top of page"
+            },
+            "children": [
+              {
+                "tag": "span",
+                "attributes": {
+                  "class": "TvbeET"
+                },
+                "children": [
+                  "top of page"
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attributes": {
+              "id": "BACKGROUND_GROUP",
+              "class": "backgroundGroup_vs2au BACKGROUND_GROUP"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attributes": {
+                  "id": "BACKGROUND_GROUP_TRANSITION_GROUP"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "id": "pageBackground_vs2au",
+                      "data-media-height-override-type": "",
+                      "data-media-position-override": "false",
+                      "class": "pageBackground_vs2au _7xVID"
+                    },
+                    "children": [
+                      {
+                        "tag": "div",
+                        "attributes": {
+                          "id": "bgLayers_pageBackground_vs2au",
+                          "data-hook": "bgLayers",
+                          "data-motion-part": "BG_LAYER pageBackground_vs2au",
+                          "class": "QG9w8P"
+                        },
+                        "children": [
+                          {
+                            "tag": "div",
+                            "attributes": {
+                              "data-testid": "colorUnderlay",
+                              "class": "LNYVZi ayCf9D"
+                            },
+                            "children": []
+                          },
+                          {
+                            "tag": "div",
+                            "attributes": {
+                              "id": "bgMedia_pageBackground_vs2au",
+                              "data-motion-part": "BG_MEDIA pageBackground_vs2au",
+                              "class": "ROWgFb"
+                            },
+                            "children": []
+                          },
+                          {
+                            "tag": "div",
+                            "attributes": {
+                              "data-testid": "bgOverlay",
+                              "class": "WnIl2C"
+                            },
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attributes": {
+              "id": "site-root",
+              "class": "site-root"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attributes": {
+                  "id": "masterPage",
+                  "class": "mesh-layout masterPage css-editing-scope"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "id": "pinnedTopLeft",
+                      "class": "pinnedTopLeft"
+                    },
+                    "children": [
+                      {
+                        "tag": "div",
+                        "attributes": {
+                          "id": "comp-irbsuerz-pinned-layer",
+                          "class": "comp-irbsuerz-pinned-layer QED8q1"
+                        },
+                        "children": [
+                          {
+                            "tag": "div",
+                            "attributes": {
+                              "id": "comp-irbsuerz",
+                              "class": "e_a0EV comp-irbsuerz"
+                            },
+                            "children": [
+                              {
+                                "tag": "div",
+                                "attributes": {
+                                  "class": "gyovE9 wixui-box",
+                                  "data-testid": "container-bg"
+                                },
+                                "children": []
+                              },
+                              {
+                                "tag": "div",
+                                "attributes": {
+                                  "data-mesh-id": "comp-irbsuerzinlineContent",
+                                  "data-testid": "inline-content",
+                                  "class": ""
+                                },
+                                "children": [
+                                  {
+                                    "tag": "div",
+                                    "attributes": {
+                                      "data-mesh-id": "comp-irbsuerzinlineContent-gridContainer",
+                                      "data-testid": "mesh-container-content"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "id": "comp-ir0aiuj0",
+                                          "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-ir0aiuj0 wixui-rich-text",
+                                          "data-testid": "richTextElement"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "p",
+                                            "attributes": {
+                                              "class": "font_0 wixui-rich-text__text",
+                                              "style": "line-height:normal; text-align:center; font-size:22px;"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "span",
+                                                "attributes": {
+                                                  "style": "font-weight:bold;",
+                                                  "class": "wixui-rich-text__text"
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "a",
+                                                    "attributes": {
+                                                      "href": "https://www.scottycon.com",
+                                                      "target": "_self",
+                                                      "class": "wixui-rich-text__text"
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "tag": "span",
+                                                        "attributes": {
+                                                          "style": "letter-spacing:0.05em;",
+                                                          "class": "wixui-rich-text__text"
+                                                        },
+                                                        "children": [
+                                                          "ScottyCon"
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "slot": "header"
+                  },
+                  {
+                    "slot": "content"
+                  },
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "id": "soapAfterPagesContainer",
+                      "class": "page-without-sosp soapAfterPagesContainer page-without-sosp"
+                    },
+                    "children": [
+                      {
+                        "tag": "div",
+                        "attributes": {
+                          "data-mesh-id": "soapAfterPagesContainerinlineContent",
+                          "data-testid": "inline-content",
+                          "class": ""
+                        },
+                        "children": [
+                          {
+                            "tag": "div",
+                            "attributes": {
+                              "data-mesh-id": "soapAfterPagesContainerinlineContent-gridContainer",
+                              "data-testid": "mesh-container-content"
+                            },
+                            "children": [
+                              {
+                                "tag": "div",
+                                "attributes": {
+                                  "id": "CONTROLLER_COMP_CUSTOM_ID",
+                                  "style": "display:none"
+                                },
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "slot": "footer"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attributes": {
+              "id": "SCROLL_TO_BOTTOM",
+              "class": "qe3oTb ignore-focus SCROLL_TO_BOTTOM",
+              "role": "region",
+              "tabindex": "-1",
+              "aria-label": "bottom of page"
+            },
+            "children": [
+              {
+                "tag": "span",
+                "attributes": {
+                  "class": "TvbeET"
+                },
+                "children": [
+                  "bottom of page"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "header": {
+    "tag": "header",
+    "attributes": {
+      "id": "SITE_HEADER",
+      "class": "t35nUu SITE_HEADER wixui-header",
+      "tabindex": "-1"
+    },
+    "children": [
+      {
+        "tag": "div",
+        "attributes": {
+          "class": "TyA27X"
+        },
+        "children": []
+      },
+      {
+        "tag": "div",
+        "attributes": {},
+        "children": [
+          {
+            "tag": "div",
+            "attributes": {},
+            "children": [
+              {
+                "tag": "div",
+                "attributes": {
+                  "data-mesh-id": "SITE_HEADERinlineContent",
+                  "data-testid": "inline-content",
+                  "class": ""
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "data-mesh-id": "SITE_HEADERinlineContent-gridContainer",
+                      "data-testid": "mesh-container-content"
+                    },
+                    "children": [
+                      {
+                        "tag": "wix-dropdown-menu",
+                        "attributes": {
+                          "id": "comp-iqimi3rl",
+                          "class": "_0ZCxZC bq59qZ comp-iqimi3rl wixui-dropdown-menu hidden-during-prewarmup",
+                          "tabindex": "-1",
+                          "dir": "ltr",
+                          "data-stretch-buttons-to-menu-width": "true",
+                          "data-same-width-buttons": "false",
+                          "data-num-items": "6",
+                          "data-menuborder-y": "0",
+                          "data-menubtn-border": "0",
+                          "data-ribbon-els": "0",
+                          "data-label-pad": "0",
+                          "data-ribbon-extra": "0",
+                          "data-dropalign": "center"
+                        },
+                        "children": [
+                          {
+                            "tag": "nav",
+                            "attributes": {
+                              "class": "pols_4",
+                              "id": "comp-iqimi3rlnavContainer",
+                              "aria-label": "Site"
+                            },
+                            "children": [
+                              {
+                                "tag": "ul",
+                                "attributes": {
+                                  "class": "wTjmlM",
+                                  "id": "comp-iqimi3rlitemsContainer",
+                                  "style": "text-align:center",
+                                  "data-marginallchildren": "true"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "li",
+                                    "attributes": {
+                                      "id": "comp-iqimi3rl0",
+                                      "data-direction": "ltr",
+                                      "data-listposition": "left",
+                                      "data-data-id": "dataItem-kgyv7hri",
+                                      "data-state": "menu false  link",
+                                      "data-index": "0",
+                                      "class": "epfw99 wixui-dropdown-menu__item agzDLy"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "a",
+                                        "attributes": {
+                                          "data-testid": "linkElement",
+                                          "href": "https://www.scottycon.com",
+                                          "target": "_self",
+                                          "class": "wNTNML"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "class": "MKZTGU"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "class": ""
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "p",
+                                                    "attributes": {
+                                                      "class": "VhM8Ji",
+                                                      "id": "comp-iqimi3rl0label"
+                                                    },
+                                                    "children": [
+                                                      "Home"
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "li",
+                                    "attributes": {
+                                      "id": "comp-iqimi3rl1",
+                                      "data-direction": "ltr",
+                                      "data-listposition": "center",
+                                      "data-data-id": "dataItem-mutaru3j",
+                                      "data-state": "menu false  link",
+                                      "data-index": "1",
+                                      "class": "epfw99 wixui-dropdown-menu__item agzDLy"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "a",
+                                        "attributes": {
+                                          "data-testid": "linkElement",
+                                          "href": "https://www.scottycon.com/flea-market",
+                                          "target": "_self",
+                                          "class": "wNTNML"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "class": "MKZTGU"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "class": ""
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "p",
+                                                    "attributes": {
+                                                      "class": "VhM8Ji",
+                                                      "id": "comp-iqimi3rl1label"
+                                                    },
+                                                    "children": [
+                                                      "Flea Market"
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "li",
+                                    "attributes": {
+                                      "id": "comp-iqimi3rl2",
+                                      "data-direction": "ltr",
+                                      "data-listposition": "center",
+                                      "data-data-id": "dataItem-lf8zonl3",
+                                      "data-state": "menu false  header",
+                                      "data-index": "2",
+                                      "class": "epfw99 wixui-dropdown-menu__item agzDLy"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "data-testid": "linkElement",
+                                          "class": "wNTNML",
+                                          "tabindex": "0",
+                                          "aria-haspopup": "true",
+                                          "aria-expanded": "false",
+                                          "role": "button"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "class": "MKZTGU"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "class": ""
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "p",
+                                                    "attributes": {
+                                                      "class": "VhM8Ji",
+                                                      "id": "comp-iqimi3rl2label"
+                                                    },
+                                                    "children": [
+                                                      "Info"
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "button",
+                                        "attributes": {
+                                          "class": "H4AHlN",
+                                          "aria-label": "More Info pages"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "svg",
+                                            "attributes": {
+                                              "width": "10",
+                                              "height": "10",
+                                              "viewbox": "0 0 16 11",
+                                              "fill": "black",
+                                              "xmlns": "http://www.w3.org/2000/svg"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "path",
+                                                "attributes": {
+                                                  "d": "M8 10.5L16 1.86193L14.7387 0.5L8 7.77613L1.26133 0.499999L-5.95321e-08 1.86193L8 10.5Z"
+                                                },
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "ul",
+                                        "attributes": {
+                                          "aria-hidden": "true",
+                                          "style": "display:none"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/faq",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "FAQ"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/applications",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Applications"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/rules",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Rules"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/maps",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Maps"
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "li",
+                                    "attributes": {
+                                      "id": "comp-iqimi3rl3",
+                                      "data-direction": "ltr",
+                                      "data-listposition": "center",
+                                      "data-data-id": "dataItem-lbr0mofe",
+                                      "data-state": "menu false  header",
+                                      "data-index": "3",
+                                      "class": "epfw99 wixui-dropdown-menu__item agzDLy"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "data-testid": "linkElement",
+                                          "class": "wNTNML",
+                                          "tabindex": "0",
+                                          "aria-haspopup": "true",
+                                          "aria-expanded": "false",
+                                          "role": "button"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "class": "MKZTGU"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "class": ""
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "p",
+                                                    "attributes": {
+                                                      "class": "VhM8Ji",
+                                                      "id": "comp-iqimi3rl3label"
+                                                    },
+                                                    "children": [
+                                                      "Activities"
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "button",
+                                        "attributes": {
+                                          "class": "H4AHlN",
+                                          "aria-label": "More Activities pages"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "svg",
+                                            "attributes": {
+                                              "width": "10",
+                                              "height": "10",
+                                              "viewbox": "0 0 16 11",
+                                              "fill": "black",
+                                              "xmlns": "http://www.w3.org/2000/svg"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "path",
+                                                "attributes": {
+                                                  "d": "M8 10.5L16 1.86193L14.7387 0.5L8 7.77613L1.26133 0.499999L-5.95321e-08 1.86193L8 10.5Z"
+                                                },
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "ul",
+                                        "attributes": {
+                                          "aria-hidden": "true",
+                                          "style": "display:none"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/guests",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Guests"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/performances",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Performances"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/panels",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Panels"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/cosplay",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "aria-current": "page",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Masquerade"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/gaming",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Gaming"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/crafts",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Crafts"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/anime",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Anime"
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "li",
+                                    "attributes": {
+                                      "id": "comp-iqimi3rl4",
+                                      "data-direction": "ltr",
+                                      "data-listposition": "center",
+                                      "data-data-id": "dataItem-lcoynn3i",
+                                      "data-state": "menu false  header",
+                                      "data-index": "4",
+                                      "class": "epfw99 wixui-dropdown-menu__item agzDLy"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "data-testid": "linkElement",
+                                          "class": "wNTNML",
+                                          "tabindex": "0",
+                                          "aria-haspopup": "true",
+                                          "aria-expanded": "false",
+                                          "role": "button"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "class": "MKZTGU"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "class": ""
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "p",
+                                                    "attributes": {
+                                                      "class": "VhM8Ji",
+                                                      "id": "comp-iqimi3rl4label"
+                                                    },
+                                                    "children": [
+                                                      "Vendors"
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "button",
+                                        "attributes": {
+                                          "class": "H4AHlN",
+                                          "aria-label": "More Vendors pages"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "svg",
+                                            "attributes": {
+                                              "width": "10",
+                                              "height": "10",
+                                              "viewbox": "0 0 16 11",
+                                              "fill": "black",
+                                              "xmlns": "http://www.w3.org/2000/svg"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "path",
+                                                "attributes": {
+                                                  "d": "M8 10.5L16 1.86193L14.7387 0.5L8 7.77613L1.26133 0.499999L-5.95321e-08 1.86193L8 10.5Z"
+                                                },
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "ul",
+                                        "attributes": {
+                                          "aria-hidden": "true",
+                                          "style": "display:none"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/artistalley",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Artist Alley"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/vendors",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Vendors"
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "tag": "li",
+                                            "attributes": {},
+                                            "children": [
+                                              {
+                                                "tag": "a",
+                                                "attributes": {
+                                                  "data-testid": "linkElement",
+                                                  "href": "https://www.scottycon.com/dining",
+                                                  "target": "_self",
+                                                  "class": "",
+                                                  "tabindex": "-1"
+                                                },
+                                                "children": [
+                                                  "Outside Dining"
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "li",
+                                    "attributes": {
+                                      "id": "comp-iqimi3rl5",
+                                      "data-direction": "ltr",
+                                      "data-listposition": "right",
+                                      "data-data-id": "dataItem-lb5kdfkp",
+                                      "data-state": "menu false  link",
+                                      "data-index": "5",
+                                      "class": "epfw99 wixui-dropdown-menu__item agzDLy"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "a",
+                                        "attributes": {
+                                          "data-testid": "linkElement",
+                                          "href": "https://www.scottycon.com/sponsors",
+                                          "target": "_self",
+                                          "class": "wNTNML"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "class": "MKZTGU"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "class": ""
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "p",
+                                                    "attributes": {
+                                                      "class": "VhM8Ji",
+                                                      "id": "comp-iqimi3rl5label"
+                                                    },
+                                                    "children": [
+                                                      "Sponsors"
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "li",
+                                    "attributes": {
+                                      "id": "comp-iqimi3rl__more__",
+                                      "data-direction": "ltr",
+                                      "data-listposition": "right",
+                                      "data-state": "menu false  header",
+                                      "data-index": "__more__",
+                                      "data-dropdown": "false",
+                                      "class": "gCLvxk agzDLy"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "data-testid": "linkElement",
+                                          "class": "wNTNML",
+                                          "tabindex": "0",
+                                          "aria-haspopup": "true"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "class": "MKZTGU"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "class": ""
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "p",
+                                                    "attributes": {
+                                                      "class": "VhM8Ji",
+                                                      "id": "comp-iqimi3rl__more__label"
+                                                    },
+                                                    "children": [
+                                                      "More..."
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "div",
+                                "attributes": {
+                                  "class": "VzyuRk",
+                                  "id": "comp-iqimi3rldropWrapper",
+                                  "data-dropalign": "center",
+                                  "data-dropdown-shown": "false"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "ul",
+                                    "attributes": {
+                                      "class": "RZaALk wixui-dropdown-menu__submenu",
+                                      "id": "comp-iqimi3rlmoreContainer"
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "div",
+                                "attributes": {
+                                  "style": "display:none",
+                                  "id": "comp-iqimi3rlnavContainer-hiddenA11ySubMenuIndication"
+                                },
+                                "children": [
+                                  "Use tab to navigate through the menu items."
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "content": {
+    "tag": "main",
+    "attributes": {
+      "id": "PAGES_CONTAINER",
+      "class": "PAGES_CONTAINER",
+      "tabindex": "-1",
+      "data-main-content": "true"
+    },
+    "children": [
+      {
+        "tag": "div",
+        "attributes": {
+          "id": "SITE_PAGES",
+          "class": "Y3K28_ SITE_PAGES"
+        },
+        "children": [
+          {
+            "tag": "div",
+            "attributes": {
+              "id": "SITE_PAGES_TRANSITION_GROUP",
+              "class": "uvik8H"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attributes": {
+                  "id": "vs2au",
+                  "class": "i0StQr theme-vars vs2au"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "class": "pTvOx2 wixui-page",
+                      "data-testid": "page-bg"
+                    },
+                    "children": []
+                  },
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "class": "JJb9Mt"
+                    },
+                    "children": [
+                      {
+                        "tag": "div",
+                        "attributes": {
+                          "id": "Containervs2au",
+                          "class": "Containervs2au wH18kY"
+                        },
+                        "children": [
+                          {
+                            "tag": "div",
+                            "attributes": {
+                              "data-mesh-id": "Containervs2auinlineContent",
+                              "data-testid": "inline-content",
+                              "class": ""
+                            },
+                            "children": [
+                              {
+                                "tag": "div",
+                                "attributes": {
+                                  "data-mesh-id": "Containervs2auinlineContent-gridContainer",
+                                  "data-testid": "mesh-container-content"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "section",
+                                    "attributes": {
+                                      "id": "comp-lfdyala1",
+                                      "tabindex": "-1",
+                                      "class": "Le88gL comp-lfdyala1 wixui-section",
+                                      "data-block-level-container": "ClassicSection"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "id": "bgLayers_comp-lfdyala1",
+                                          "data-hook": "bgLayers",
+                                          "data-motion-part": "BG_LAYER comp-lfdyala1",
+                                          "class": "QG9w8P"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "data-testid": "colorUnderlay",
+                                              "class": "LNYVZi ayCf9D"
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "id": "bgMedia_comp-lfdyala1",
+                                              "data-motion-part": "BG_MEDIA comp-lfdyala1",
+                                              "class": "ROWgFb"
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "data-mesh-id": "comp-lfdyala1inlineContent",
+                                          "data-testid": "inline-content",
+                                          "class": ""
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "data-mesh-id": "comp-lfdyala1inlineContent-gridContainer",
+                                              "data-testid": "mesh-container-content"
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "section",
+                                    "attributes": {
+                                      "id": "comp-lfdyala9",
+                                      "tabindex": "-1",
+                                      "class": "Le88gL comp-lfdyala9 wixui-section",
+                                      "data-block-level-container": "ClassicSection"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "id": "bgLayers_comp-lfdyala9",
+                                          "data-hook": "bgLayers",
+                                          "data-motion-part": "BG_LAYER comp-lfdyala9",
+                                          "class": "QG9w8P"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "data-testid": "colorUnderlay",
+                                              "class": "LNYVZi ayCf9D"
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "id": "bgMedia_comp-lfdyala9",
+                                              "data-motion-part": "BG_MEDIA comp-lfdyala9",
+                                              "class": "ROWgFb"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "wix-bg-image",
+                                                "attributes": {
+                                                  "id": "bgImg_comp-lfdyala9",
+                                                  "class": "ayCf9D fO4mKs NgeJ4N bgImage",
+                                                  "style": "background-image:url(https://static.wixstatic.com/media/e17121a8be8c470ea2e2175c8e27f2ca.png/v1/fill/w_75,h_75,al_c,q_85,usm_0.66_1.00_0.01,blur_1,enc_auto/e17121a8be8c470ea2e2175c8e27f2ca.png);background-size:300px 300px;background-repeat:repeat;background-position:center center",
+                                                  "data-tiled-image-info": "{\"containerId\":\"comp-lfdyala9\",\"alignType\":\"center\",\"fittingType\":\"tile\",\"imageData\":{\"width\":300,\"height\":300,\"uri\":\"e17121a8be8c470ea2e2175c8e27f2ca.png\",\"displayMode\":\"tile\"}}",
+                                                  "data-has-bg-scroll-effect": "",
+                                                  "data-bg-effect-name": "",
+                                                  "data-motion-part": "BG_IMG comp-lfdyala9"
+                                                },
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "data-mesh-id": "comp-lfdyala9inlineContent",
+                                          "data-testid": "inline-content",
+                                          "class": ""
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "data-mesh-id": "comp-lfdyala9inlineContent-gridContainer",
+                                              "data-testid": "mesh-container-content"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "id": "comp-lfdyalai",
+                                                  "class": "gpDCD5 comp-lfdyalai"
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "div",
+                                                    "attributes": {
+                                                      "class": "jv9xi4 wixui-box",
+                                                      "data-testid": "container-bg"
+                                                    },
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "tag": "div",
+                                                    "attributes": {
+                                                      "data-mesh-id": "comp-lfdyalaiinlineContent",
+                                                      "data-testid": "inline-content",
+                                                      "class": ""
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "tag": "div",
+                                                        "attributes": {
+                                                          "data-mesh-id": "comp-lfdyalaiinlineContent-gridContainer",
+                                                          "data-testid": "mesh-container-content"
+                                                        },
+                                                        "children": [
+                                                          {
+                                                            "tag": "div",
+                                                            "attributes": {
+                                                              "id": "comp-lfdyalan",
+                                                              "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-lfdyalan wixui-rich-text",
+                                                              "data-testid": "richTextElement"
+                                                            },
+                                                            "children": [
+                                                              {
+                                                                "tag": "h2",
+                                                                "attributes": {
+                                                                  "class": "font_2 wixui-rich-text__text",
+                                                                  "style": "text-align:center; font-size:70px;"
+                                                                },
+                                                                "children": [
+                                                                  "Masquerade"
+                                                                ]
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "section",
+                                    "attributes": {
+                                      "id": "comp-lfdyalas",
+                                      "tabindex": "-1",
+                                      "class": "Le88gL comp-lfdyalas wixui-section",
+                                      "data-block-level-container": "ClassicSection"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "id": "bgLayers_comp-lfdyalas",
+                                          "data-hook": "bgLayers",
+                                          "data-motion-part": "BG_LAYER comp-lfdyalas",
+                                          "class": "QG9w8P"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "data-testid": "colorUnderlay",
+                                              "class": "LNYVZi ayCf9D"
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "id": "bgMedia_comp-lfdyalas",
+                                              "data-motion-part": "BG_MEDIA comp-lfdyalas",
+                                              "class": "ROWgFb"
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "data-mesh-id": "comp-lfdyalasinlineContent",
+                                          "data-testid": "inline-content",
+                                          "class": ""
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "data-mesh-id": "comp-lfdyalasinlineContent-gridContainer",
+                                              "data-testid": "mesh-container-content"
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "section",
+                                    "attributes": {
+                                      "id": "comp-lfdyalax",
+                                      "tabindex": "-1",
+                                      "class": "Le88gL comp-lfdyalax wixui-section",
+                                      "data-block-level-container": "ClassicSection"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "id": "bgLayers_comp-lfdyalax",
+                                          "data-hook": "bgLayers",
+                                          "data-motion-part": "BG_LAYER comp-lfdyalax",
+                                          "class": "QG9w8P"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "data-testid": "colorUnderlay",
+                                              "class": "LNYVZi ayCf9D"
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "id": "bgMedia_comp-lfdyalax",
+                                              "data-motion-part": "BG_MEDIA comp-lfdyalax",
+                                              "class": "ROWgFb"
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "data-mesh-id": "comp-lfdyalaxinlineContent",
+                                          "data-testid": "inline-content",
+                                          "class": ""
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "data-mesh-id": "comp-lfdyalaxinlineContent-gridContainer",
+                                              "data-testid": "mesh-container-content"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "section",
+                                                "attributes": {
+                                                  "id": "comp-lfdyalb3",
+                                                  "class": "comp-lfdyalb3 CeUMmm wixui-column-strip"
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "div",
+                                                    "attributes": {
+                                                      "id": "bgLayers_comp-lfdyalb3",
+                                                      "data-hook": "bgLayers",
+                                                      "data-motion-part": "BG_LAYER comp-lfdyalb3",
+                                                      "class": "ktMZav"
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "tag": "div",
+                                                        "attributes": {
+                                                          "data-testid": "colorUnderlay",
+                                                          "class": "V9k0ll etGVsi"
+                                                        },
+                                                        "children": []
+                                                      },
+                                                      {
+                                                        "tag": "div",
+                                                        "attributes": {
+                                                          "id": "bgMedia_comp-lfdyalb3",
+                                                          "data-motion-part": "BG_MEDIA comp-lfdyalb3",
+                                                          "class": "etSQ9j"
+                                                        },
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "tag": "div",
+                                                    "attributes": {
+                                                      "data-testid": "columns",
+                                                      "class": "Ak0vpt"
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "tag": "div",
+                                                        "attributes": {
+                                                          "id": "comp-lfdyalbm",
+                                                          "class": "comp-lfdyalbm FDI5TK wixui-column-strip__column"
+                                                        },
+                                                        "children": [
+                                                          {
+                                                            "tag": "div",
+                                                            "attributes": {
+                                                              "id": "bgLayers_comp-lfdyalbm",
+                                                              "data-hook": "bgLayers",
+                                                              "data-motion-part": "BG_LAYER comp-lfdyalbm",
+                                                              "class": "QG9w8P"
+                                                            },
+                                                            "children": [
+                                                              {
+                                                                "tag": "div",
+                                                                "attributes": {
+                                                                  "data-testid": "colorUnderlay",
+                                                                  "class": "LNYVZi ayCf9D"
+                                                                },
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "tag": "div",
+                                                                "attributes": {
+                                                                  "id": "bgMedia_comp-lfdyalbm",
+                                                                  "data-motion-part": "BG_MEDIA comp-lfdyalbm",
+                                                                  "class": "ROWgFb"
+                                                                },
+                                                                "children": [
+                                                                  {
+                                                                    "tag": "wow-image",
+                                                                    "attributes": {
+                                                                      "id": "img_comp-lfdyalbm",
+                                                                      "class": "Qh0lWW ayCf9D fO4mKs NgeJ4N bgImage",
+                                                                      "data-motion-part": "BG_IMG comp-lfdyalbm",
+                                                                      "data-bg-effect-name": "",
+                                                                      "data-has-ssr-src": "true"
+                                                                    },
+                                                                    "children": [
+                                                                      {
+                                                                        "tag": "img",
+                                                                        "attributes": {
+                                                                          "src": "/original-site/comp-lfdyalbm-0e7fa56b0d58.jpg",
+                                                                          "alt": "",
+                                                                          "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+                                                                          "width": "489",
+                                                                          "height": "758"
+                                                                        },
+                                                                        "children": []
+                                                                      }
+                                                                    ]
+                                                                  }
+                                                                ]
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "tag": "div",
+                                                            "attributes": {
+                                                              "data-mesh-id": "comp-lfdyalbminlineContent",
+                                                              "data-testid": "inline-content",
+                                                              "class": ""
+                                                            },
+                                                            "children": [
+                                                              {
+                                                                "tag": "div",
+                                                                "attributes": {
+                                                                  "data-mesh-id": "comp-lfdyalbminlineContent-gridContainer",
+                                                                  "data-testid": "mesh-container-content"
+                                                                },
+                                                                "children": []
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "tag": "div",
+                                                        "attributes": {
+                                                          "id": "comp-lfdyalbu",
+                                                          "class": "comp-lfdyalbu FDI5TK wixui-column-strip__column"
+                                                        },
+                                                        "children": [
+                                                          {
+                                                            "tag": "div",
+                                                            "attributes": {
+                                                              "id": "bgLayers_comp-lfdyalbu",
+                                                              "data-hook": "bgLayers",
+                                                              "data-motion-part": "BG_LAYER comp-lfdyalbu",
+                                                              "class": "QG9w8P"
+                                                            },
+                                                            "children": [
+                                                              {
+                                                                "tag": "div",
+                                                                "attributes": {
+                                                                  "data-testid": "colorUnderlay",
+                                                                  "class": "LNYVZi ayCf9D"
+                                                                },
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "tag": "div",
+                                                                "attributes": {
+                                                                  "id": "bgMedia_comp-lfdyalbu",
+                                                                  "data-motion-part": "BG_MEDIA comp-lfdyalbu",
+                                                                  "class": "ROWgFb"
+                                                                },
+                                                                "children": []
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "tag": "div",
+                                                            "attributes": {
+                                                              "data-mesh-id": "comp-lfdyalbuinlineContent",
+                                                              "data-testid": "inline-content",
+                                                              "class": ""
+                                                            },
+                                                            "children": [
+                                                              {
+                                                                "tag": "div",
+                                                                "attributes": {
+                                                                  "data-mesh-id": "comp-lfdyalbuinlineContent-gridContainer",
+                                                                  "data-testid": "mesh-container-content"
+                                                                },
+                                                                "children": [
+                                                                  {
+                                                                    "tag": "div",
+                                                                    "attributes": {
+                                                                      "id": "comp-lfdyalbx",
+                                                                      "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-lfdyalbx wixui-rich-text",
+                                                                      "data-testid": "richTextElement"
+                                                                    },
+                                                                    "children": [
+                                                                      {
+                                                                        "tag": "h2",
+                                                                        "attributes": {
+                                                                          "class": "font_2 wixui-rich-text__text",
+                                                                          "style": "font-size:38px; line-height:normal; text-align:center;"
+                                                                        },
+                                                                        "children": [
+                                                                          {
+                                                                            "tag": "span",
+                                                                            "attributes": {
+                                                                              "style": "letter-spacing:normal;",
+                                                                              "class": "wixui-rich-text__text"
+                                                                            },
+                                                                            "children": [
+                                                                              {
+                                                                                "tag": "span",
+                                                                                "attributes": {
+                                                                                  "style": "font-size:38px;",
+                                                                                  "class": "wixui-rich-text__text"
+                                                                                },
+                                                                                "children": [
+                                                                                  "Masquerade"
+                                                                                ]
+                                                                              }
+                                                                            ]
+                                                                          }
+                                                                        ]
+                                                                      }
+                                                                    ]
+                                                                  },
+                                                                  {
+                                                                    "tag": "div",
+                                                                    "attributes": {
+                                                                      "id": "comp-lfdyalc0",
+                                                                      "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-lfdyalc0 wixui-rich-text",
+                                                                      "data-testid": "richTextElement"
+                                                                    },
+                                                                    "children": [
+                                                                      {
+                                                                        "tag": "p",
+                                                                        "attributes": {
+                                                                          "class": "font_8 wixui-rich-text__text",
+                                                                          "style": "font-size:16px; line-height:1.8em;"
+                                                                        },
+                                                                        "children": [
+                                                                          {
+                                                                            "tag": "span",
+                                                                            "attributes": {
+                                                                              "style": "font-size:16px;",
+                                                                              "class": "wixui-rich-text__text"
+                                                                            },
+                                                                            "children": [
+                                                                              "A masquerade is a contest for cosplayers/costumers who want to show off their costumes on stage. Some cosplayers choose to perform skits and others show off their craftsmanship to compete for prizes. "
+                                                                            ]
+                                                                          }
+                                                                        ]
+                                                                      },
+                                                                      "\n\n",
+                                                                      {
+                                                                        "tag": "p",
+                                                                        "attributes": {
+                                                                          "class": "font_8 wixui-rich-text__text",
+                                                                          "style": "font-size:16px; line-height:1.8em;"
+                                                                        },
+                                                                        "children": [
+                                                                          {
+                                                                            "tag": "span",
+                                                                            "attributes": {
+                                                                              "style": "font-size:16px;",
+                                                                              "class": "wixui-rich-text__text"
+                                                                            },
+                                                                            "children": [
+                                                                              "At ScottyCon's masquerade, all entries will participate in a walk-on á la fashion show as an opportunity to show off their costume. "
+                                                                            ]
+                                                                          }
+                                                                        ]
+                                                                      },
+                                                                      "\n\n",
+                                                                      {
+                                                                        "tag": "p",
+                                                                        "attributes": {
+                                                                          "class": "font_8 wixui-rich-text__text",
+                                                                          "style": "font-size:16px; line-height:1.8em;"
+                                                                        },
+                                                                        "children": [
+                                                                          " "
+                                                                        ]
+                                                                      },
+                                                                      "\n\n",
+                                                                      {
+                                                                        "tag": "p",
+                                                                        "attributes": {
+                                                                          "class": "font_8 wixui-rich-text__text",
+                                                                          "style": "font-size:16px; line-height:1.8em;"
+                                                                        },
+                                                                        "children": [
+                                                                          {
+                                                                            "tag": "span",
+                                                                            "attributes": {
+                                                                              "style": "font-size:16px;",
+                                                                              "class": "wixui-rich-text__text"
+                                                                            },
+                                                                            "children": [
+                                                                              "The masquerade will be held from",
+                                                                              {
+                                                                                "tag": "span",
+                                                                                "attributes": {
+                                                                                  "style": "font-weight:bold;",
+                                                                                  "class": "wixui-rich-text__text"
+                                                                                },
+                                                                                "children": [
+                                                                                  " 5:00-5:45 PM "
+                                                                                ]
+                                                                              },
+                                                                              "on the main performance stage. You can register for our walk-on fashion show and craftsmanship competition ",
+                                                                              {
+                                                                                "tag": "span",
+                                                                                "attributes": {
+                                                                                  "style": "text-decoration:underline;",
+                                                                                  "class": "wixui-rich-text__text"
+                                                                                },
+                                                                                "children": [
+                                                                                  {
+                                                                                    "tag": "a",
+                                                                                    "attributes": {
+                                                                                      "href": "https://www.scottycon.com/applications",
+                                                                                      "target": "_self",
+                                                                                      "class": "wixui-rich-text__text"
+                                                                                    },
+                                                                                    "children": [
+                                                                                      {
+                                                                                        "tag": "span",
+                                                                                        "attributes": {
+                                                                                          "style": "font-weight:bold;",
+                                                                                          "class": "wixui-rich-text__text"
+                                                                                        },
+                                                                                        "children": [
+                                                                                          "here"
+                                                                                        ]
+                                                                                      }
+                                                                                    ]
+                                                                                  }
+                                                                                ]
+                                                                              },
+                                                                              "."
+                                                                            ]
+                                                                          }
+                                                                        ]
+                                                                      }
+                                                                    ]
+                                                                  }
+                                                                ]
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "tag": "section",
+                                    "attributes": {
+                                      "id": "comp-lfdyzxxx",
+                                      "tabindex": "-1",
+                                      "class": "Le88gL comp-lfdyzxxx wixui-section",
+                                      "data-block-level-container": "ClassicSection"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "id": "bgLayers_comp-lfdyzxxx",
+                                          "data-hook": "bgLayers",
+                                          "data-motion-part": "BG_LAYER comp-lfdyzxxx",
+                                          "class": "QG9w8P"
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "data-testid": "colorUnderlay",
+                                              "class": "LNYVZi ayCf9D"
+                                            },
+                                            "children": []
+                                          },
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "id": "bgMedia_comp-lfdyzxxx",
+                                              "data-motion-part": "BG_MEDIA comp-lfdyzxxx",
+                                              "class": "ROWgFb"
+                                            },
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "tag": "div",
+                                        "attributes": {
+                                          "data-mesh-id": "comp-lfdyzxxxinlineContent",
+                                          "data-testid": "inline-content",
+                                          "class": ""
+                                        },
+                                        "children": [
+                                          {
+                                            "tag": "div",
+                                            "attributes": {
+                                              "data-mesh-id": "comp-lfdyzxxxinlineContent-gridContainer",
+                                              "data-testid": "mesh-container-content"
+                                            },
+                                            "children": [
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "id": "comp-lfdyzxzw1",
+                                                  "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-lfdyzxzw1 wixui-rich-text",
+                                                  "data-testid": "richTextElement"
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "h2",
+                                                    "attributes": {
+                                                      "class": "font_0 wixui-rich-text__text",
+                                                      "style": "font-size:56px; line-height:normal; text-align:center;"
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "tag": "span",
+                                                        "attributes": {
+                                                          "style": "text-shadow:rgba(10, 189, 240, 0.298039) 3px 3px 0px, rgba(254, 1, 1, 0.298039) -3px -3px 0px;",
+                                                          "class": "wixui-rich-text__text"
+                                                        },
+                                                        "children": [
+                                                          {
+                                                            "tag": "span",
+                                                            "attributes": {
+                                                              "style": "letter-spacing:normal;",
+                                                              "class": "wixui-rich-text__text"
+                                                            },
+                                                            "children": [
+                                                              {
+                                                                "tag": "span",
+                                                                "attributes": {
+                                                                  "style": "font-size:56px;",
+                                                                  "class": "wixui-rich-text__text"
+                                                                },
+                                                                "children": [
+                                                                  "Masquerade Judges"
+                                                                ]
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "id": "comp-lfdyzy041",
+                                                  "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-lfdyzy041 wixui-rich-text",
+                                                  "data-testid": "richTextElement"
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "p",
+                                                    "attributes": {
+                                                      "class": "font_7 wixui-rich-text__text",
+                                                      "style": "font-size:18px; line-height:1.8em; text-align:center;"
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "tag": "span",
+                                                        "attributes": {
+                                                          "style": "letter-spacing:normal;",
+                                                          "class": "wixui-rich-text__text"
+                                                        },
+                                                        "children": [
+                                                          {
+                                                            "tag": "span",
+                                                            "attributes": {
+                                                              "style": "font-size:18px;",
+                                                              "class": "wixui-rich-text__text"
+                                                            },
+                                                            "children": [
+                                                              "Stay tuned for this year's masquerade judges!"
+                                                            ]
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "tag": "div",
+                                                "attributes": {
+                                                  "id": "comp-lfdyzy061",
+                                                  "class": "comp-lfdyzy061 wixui-repeater"
+                                                },
+                                                "children": [
+                                                  {
+                                                    "tag": "div",
+                                                    "attributes": {
+                                                      "class": "wngi8",
+                                                      "id": "comp-lfdyzy061_wrapper"
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "tag": "fluid-columns-repeater",
+                                                        "attributes": {
+                                                          "style": "visibility:hidden",
+                                                          "horizontal-gap": "20",
+                                                          "vertical-gap": "20",
+                                                          "justify-content": "center",
+                                                          "container-id": "comp-lfdyzy061_wrapper",
+                                                          "items": "3",
+                                                          "class": "TypO4",
+                                                          "role": "list",
+                                                          "direction": "ltr"
+                                                        },
+                                                        "children": [
+                                                          {
+                                                            "tag": "div",
+                                                            "attributes": {
+                                                              "id": "comp-lfdyzy0g__item1",
+                                                              "class": "comp-lfdyzy0g comp-lfdyzy0g__item1 FDI5TK wixui-repeater__item"
+                                                            },
+                                                            "children": [
+                                                              {
+                                                                "tag": "div",
+                                                                "attributes": {
+                                                                  "id": "bgLayers_comp-lfdyzy0g__item1",
+                                                                  "data-hook": "bgLayers",
+                                                                  "data-motion-part": "BG_LAYER comp-lfdyzy0g__item1",
+                                                                  "class": "QG9w8P"
+                                                                },
+                                                                "children": [
+                                                                  {
+                                                                    "tag": "div",
+                                                                    "attributes": {
+                                                                      "data-testid": "colorUnderlay",
+                                                                      "class": "LNYVZi ayCf9D"
+                                                                    },
+                                                                    "children": []
+                                                                  },
+                                                                  {
+                                                                    "tag": "div",
+                                                                    "attributes": {
+                                                                      "id": "bgMedia_comp-lfdyzy0g__item1",
+                                                                      "data-motion-part": "BG_MEDIA comp-lfdyzy0g__item1",
+                                                                      "class": "ROWgFb"
+                                                                    },
+                                                                    "children": []
+                                                                  }
+                                                                ]
+                                                              },
+                                                              {
+                                                                "tag": "div",
+                                                                "attributes": {
+                                                                  "data-mesh-id": "comp-lfdyzy0g__item1inlineContent",
+                                                                  "data-testid": "inline-content",
+                                                                  "class": ""
+                                                                },
+                                                                "children": [
+                                                                  {
+                                                                    "tag": "div",
+                                                                    "attributes": {
+                                                                      "data-mesh-id": "comp-lfdyzy0g__item1inlineContent-gridContainer",
+                                                                      "data-testid": "mesh-container-content"
+                                                                    },
+                                                                    "children": [
+                                                                      {
+                                                                        "tag": "div",
+                                                                        "attributes": {
+                                                                          "id": "comp-lfdyzy0u__item1",
+                                                                          "class": "W4V2qg comp-lfdyzy0u comp-lfdyzy0u__item1 wixui-image"
+                                                                        },
+                                                                        "children": [
+                                                                          {
+                                                                            "tag": "div",
+                                                                            "attributes": {
+                                                                              "data-testid": "linkElement",
+                                                                              "class": "apPOZK"
+                                                                            },
+                                                                            "children": [
+                                                                              {
+                                                                                "tag": "img",
+                                                                                "attributes": {
+                                                                                  "loading": "lazy",
+                                                                                  "id": "img_comp-lfdyzy0u__item1",
+                                                                                  "src": "/original-site/mmexport1657343613811-jpg-e6a3dd1b45b5.jpg",
+                                                                                  "alt": "mmexport1657343613811.jpg",
+                                                                                  "style": "object-fit:cover",
+                                                                                  "class": "gRkIq0 sFiSiq",
+                                                                                  "width": "290",
+                                                                                  "height": "459"
+                                                                                },
+                                                                                "children": []
+                                                                              }
+                                                                            ]
+                                                                          }
+                                                                        ]
+                                                                      },
+                                                                      {
+                                                                        "tag": "div",
+                                                                        "attributes": {
+                                                                          "id": "comp-lfdyzy15__item1",
+                                                                          "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-lfdyzy15 comp-lfdyzy15__item1 wixui-rich-text",
+                                                                          "data-testid": "richTextElement"
+                                                                        },
+                                                                        "children": [
+                                                                          {
+                                                                            "tag": "h4",
+                                                                            "attributes": {
+                                                                              "class": "font_4 wixui-rich-text__text",
+                                                                              "style": "font-size:30px;"
+                                                                            },
+                                                                            "children": [
+                                                                              {
+                                                                                "tag": "span",
+                                                                                "attributes": {
+                                                                                  "style": "font-size:30px;",
+                                                                                  "class": "wixui-rich-text__text"
+                                                                                },
+                                                                                "children": [
+                                                                                  "Leilani Zhang"
+                                                                                ]
+                                                                              }
+                                                                            ]
+                                                                          }
+                                                                        ]
+                                                                      },
+                                                                      {
+                                                                        "tag": "div",
+                                                                        "attributes": {
+                                                                          "id": "comp-lfdyzy181__item1",
+                                                                          "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-lfdyzy181 comp-lfdyzy181__item1 wixui-rich-text",
+                                                                          "data-testid": "richTextElement"
+                                                                        },
+                                                                        "children": [
+                                                                          {
+                                                                            "tag": "p",
+                                                                            "attributes": {
+                                                                              "class": "font_7 wixui-rich-text__text",
+                                                                              "style": "font-size:18px;"
+                                                                            },
+                                                                            "children": [
+                                                                              "Leilani Zhang (@sibby.does.things) is the current Vice President of Cosplay@CMU and an amateur cosplayer. She has been involved in Scottycon since 2021, and has previously won \"Best in Craftsmanship\" in Scottycon 2022. She has cosplayed characters from League of Legends, Elden Ring, and most recently, Baldur's Gate 3. Her newly-discovered favorite cosplay material is Worbla! "
+                                                                            ]
+                                                                          }
+                                                                        ]
+                                                                      }
+                                                                    ]
+                                                                  }
+                                                                ]
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "tag": "div",
+                                                            "attributes": {
+                                                              "id": "comp-lfdyzy0g__item-ke74c9a7",
+                                                              "class": "comp-lfdyzy0g comp-lfdyzy0g__item-ke74c9a7 FDI5TK wixui-repeater__item"
+                                                            },
+                                                            "children": [
+                                                              {
+                                                                "tag": "div",
+                                                                "attributes": {
+                                                                  "id": "bgLayers_comp-lfdyzy0g__item-ke74c9a7",
+                                                                  "data-hook": "bgLayers",
+                                                                  "data-motion-part": "BG_LAYER comp-lfdyzy0g__item-ke74c9a7",
+                                                                  "class": "QG9w8P"
+                                                                },
+                                                                "children": [
+                                                                  {
+                                                                    "tag": "div",
+                                                                    "attributes": {
+                                                                      "data-testid": "colorUnderlay",
+                                                                      "class": "LNYVZi ayCf9D"
+                                                                    },
+                                                                    "children": []
+                                                                  },
+                                                                  {
+                                                                    "tag": "div",
+                                                                    "attributes": {
+                                                                      "id": "bgMedia_comp-lfdyzy0g__item-ke74c9a7",
+                                                                      "data-motion-part": "BG_MEDIA comp-lfdyzy0g__item-ke74c9a7",
+                                                                      "class": "ROWgFb"
+                                                                    },
+                                                                    "children": []
+                                                                  }
+                                                                ]
+                                                              },
+                                                              {
+                                                                "tag": "div",
+                                                                "attributes": {
+                                                                  "data-mesh-id": "comp-lfdyzy0g__item-ke74c9a7inlineContent",
+                                                                  "data-testid": "inline-content",
+                                                                  "class": ""
+                                                                },
+                                                                "children": [
+                                                                  {
+                                                                    "tag": "div",
+                                                                    "attributes": {
+                                                                      "data-mesh-id": "comp-lfdyzy0g__item-ke74c9a7inlineContent-gridContainer",
+                                                                      "data-testid": "mesh-container-content"
+                                                                    },
+                                                                    "children": [
+                                                                      {
+                                                                        "tag": "div",
+                                                                        "attributes": {
+                                                                          "id": "comp-lfdyzy0u__item-ke74c9a7",
+                                                                          "class": "W4V2qg comp-lfdyzy0u comp-lfdyzy0u__item-ke74c9a7 wixui-image"
+                                                                        },
+                                                                        "children": [
+                                                                          {
+                                                                            "tag": "div",
+                                                                            "attributes": {
+                                                                              "data-testid": "linkElement",
+                                                                              "class": "apPOZK"
+                                                                            },
+                                                                            "children": [
+                                                                              {
+                                                                                "tag": "img",
+                                                                                "attributes": {
+                                                                                  "loading": "lazy",
+                                                                                  "id": "img_comp-lfdyzy0u__item-ke74c9a7",
+                                                                                  "src": "/original-site/photogig-iroun-photos-xiao-2-jpg-acbe807575eb.jpg",
+                                                                                  "alt": "photogIG-iroun.photos_xiao-2.jpg",
+                                                                                  "style": "object-fit:cover",
+                                                                                  "class": "gRkIq0 sFiSiq",
+                                                                                  "width": "290",
+                                                                                  "height": "459"
+                                                                                },
+                                                                                "children": []
+                                                                              }
+                                                                            ]
+                                                                          }
+                                                                        ]
+                                                                      },
+                                                                      {
+                                                                        "tag": "div",
+                                                                        "attributes": {
+                                                                          "id": "comp-lfdyzy15__item-ke74c9a7",
+                                                                          "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-lfdyzy15 comp-lfdyzy15__item-ke74c9a7 wixui-rich-text",
+                                                                          "data-testid": "richTextElement"
+                                                                        },
+                                                                        "children": [
+                                                                          {
+                                                                            "tag": "h4",
+                                                                            "attributes": {
+                                                                              "class": "font_4 wixui-rich-text__text",
+                                                                              "style": "font-size:30px;"
+                                                                            },
+                                                                            "children": [
+                                                                              {
+                                                                                "tag": "span",
+                                                                                "attributes": {
+                                                                                  "style": "font-size:30px;",
+                                                                                  "class": "wixui-rich-text__text"
+                                                                                },
+                                                                                "children": [
+                                                                                  "Corwynte Cosplay"
+                                                                                ]
+                                                                              }
+                                                                            ]
+                                                                          }
+                                                                        ]
+                                                                      },
+                                                                      {
+                                                                        "tag": "div",
+                                                                        "attributes": {
+                                                                          "id": "comp-lfdyzy181__item-ke74c9a7",
+                                                                          "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-lfdyzy181 comp-lfdyzy181__item-ke74c9a7 wixui-rich-text",
+                                                                          "data-testid": "richTextElement"
+                                                                        },
+                                                                        "children": [
+                                                                          {
+                                                                            "tag": "p",
+                                                                            "attributes": {
+                                                                              "class": "font_7 wixui-rich-text__text",
+                                                                              "style": "font-size:18px;"
+                                                                            },
+                                                                            "children": [
+                                                                              {
+                                                                                "tag": "span",
+                                                                                "attributes": {
+                                                                                  "style": "font-size:18px;",
+                                                                                  "class": "wixui-rich-text__text"
+                                                                                },
+                                                                                "children": [
+                                                                                  "A longtime cosplayer and self-taught sewist, Corwynte enjoys sharing their love of creating costumes and bringing their favorite characters to life!  Cosplay has been their catalyst to learn a variety of skills, from sewing techniques and embroidery to 3d modeling and printing, and they’ve won craftsmanship awards and judged at various cons around the region."
+                                                                                ]
+                                                                              }
+                                                                            ]
+                                                                          }
+                                                                        ]
+                                                                      }
+                                                                    ]
+                                                                  }
+                                                                ]
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "tag": "div",
+                                                            "attributes": {
+                                                              "id": "comp-lfdyzy0g__item-ke74cb2f",
+                                                              "class": "comp-lfdyzy0g comp-lfdyzy0g__item-ke74cb2f FDI5TK wixui-repeater__item"
+                                                            },
+                                                            "children": [
+                                                              {
+                                                                "tag": "div",
+                                                                "attributes": {
+                                                                  "id": "bgLayers_comp-lfdyzy0g__item-ke74cb2f",
+                                                                  "data-hook": "bgLayers",
+                                                                  "data-motion-part": "BG_LAYER comp-lfdyzy0g__item-ke74cb2f",
+                                                                  "class": "QG9w8P"
+                                                                },
+                                                                "children": [
+                                                                  {
+                                                                    "tag": "div",
+                                                                    "attributes": {
+                                                                      "data-testid": "colorUnderlay",
+                                                                      "class": "LNYVZi ayCf9D"
+                                                                    },
+                                                                    "children": []
+                                                                  },
+                                                                  {
+                                                                    "tag": "div",
+                                                                    "attributes": {
+                                                                      "id": "bgMedia_comp-lfdyzy0g__item-ke74cb2f",
+                                                                      "data-motion-part": "BG_MEDIA comp-lfdyzy0g__item-ke74cb2f",
+                                                                      "class": "ROWgFb"
+                                                                    },
+                                                                    "children": []
+                                                                  }
+                                                                ]
+                                                              },
+                                                              {
+                                                                "tag": "div",
+                                                                "attributes": {
+                                                                  "data-mesh-id": "comp-lfdyzy0g__item-ke74cb2finlineContent",
+                                                                  "data-testid": "inline-content",
+                                                                  "class": ""
+                                                                },
+                                                                "children": [
+                                                                  {
+                                                                    "tag": "div",
+                                                                    "attributes": {
+                                                                      "data-mesh-id": "comp-lfdyzy0g__item-ke74cb2finlineContent-gridContainer",
+                                                                      "data-testid": "mesh-container-content"
+                                                                    },
+                                                                    "children": [
+                                                                      {
+                                                                        "tag": "div",
+                                                                        "attributes": {
+                                                                          "id": "comp-lfdyzy0u__item-ke74cb2f",
+                                                                          "class": "W4V2qg comp-lfdyzy0u comp-lfdyzy0u__item-ke74cb2f wixui-image"
+                                                                        },
+                                                                        "children": [
+                                                                          {
+                                                                            "tag": "div",
+                                                                            "attributes": {
+                                                                              "data-testid": "linkElement",
+                                                                              "class": "apPOZK"
+                                                                            },
+                                                                            "children": [
+                                                                              {
+                                                                                "tag": "img",
+                                                                                "attributes": {
+                                                                                  "loading": "lazy",
+                                                                                  "id": "img_comp-lfdyzy0u__item-ke74cb2f",
+                                                                                  "src": "/original-site/unnamed-jpg-cba6f08c1dea.jpg",
+                                                                                  "alt": "unnamed.jpg",
+                                                                                  "style": "object-fit:cover",
+                                                                                  "class": "gRkIq0 sFiSiq",
+                                                                                  "width": "290",
+                                                                                  "height": "459"
+                                                                                },
+                                                                                "children": []
+                                                                              }
+                                                                            ]
+                                                                          }
+                                                                        ]
+                                                                      },
+                                                                      {
+                                                                        "tag": "div",
+                                                                        "attributes": {
+                                                                          "id": "comp-lfdyzy15__item-ke74cb2f",
+                                                                          "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-lfdyzy15 comp-lfdyzy15__item-ke74cb2f wixui-rich-text",
+                                                                          "data-testid": "richTextElement"
+                                                                        },
+                                                                        "children": [
+                                                                          {
+                                                                            "tag": "h4",
+                                                                            "attributes": {
+                                                                              "class": "font_4 wixui-rich-text__text",
+                                                                              "style": "font-size:30px;"
+                                                                            },
+                                                                            "children": [
+                                                                              {
+                                                                                "tag": "span",
+                                                                                "attributes": {
+                                                                                  "style": "font-size:30px;",
+                                                                                  "class": "wixui-rich-text__text"
+                                                                                },
+                                                                                "children": [
+                                                                                  "Steph Pixxi"
+                                                                                ]
+                                                                              }
+                                                                            ]
+                                                                          }
+                                                                        ]
+                                                                      },
+                                                                      {
+                                                                        "tag": "div",
+                                                                        "attributes": {
+                                                                          "id": "comp-lfdyzy181__item-ke74cb2f",
+                                                                          "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-lfdyzy181 comp-lfdyzy181__item-ke74cb2f wixui-rich-text",
+                                                                          "data-testid": "richTextElement"
+                                                                        },
+                                                                        "children": [
+                                                                          {
+                                                                            "tag": "p",
+                                                                            "attributes": {
+                                                                              "class": "font_7 wixui-rich-text__text",
+                                                                              "style": "font-size:18px;"
+                                                                            },
+                                                                            "children": [
+                                                                              {
+                                                                                "tag": "span",
+                                                                                "attributes": {
+                                                                                  "style": "font-size:18px;",
+                                                                                  "class": "wixui-rich-text__text"
+                                                                                },
+                                                                                "children": [
+                                                                                  "Stephie Lynz (@stephie.gif) is a cosplayer, model and fashion enthusiast that has been cosplaying since 2016. She has been featured in several cosplay publications such as Cosplay Kingdom and Cosplay Realm Magazine. Stephie began her love of costume-making while studying theatre at Cleveland State University. She has cosplayed from many genres, from games to anime to comics. Stephie’s favorite character she has ever brought to life is Poison Ivy, and her favorite cosplay material is foam! "
+                                                                                ]
+                                                                              }
+                                                                            ]
+                                                                          }
+                                                                        ]
+                                                                      }
+                                                                    ]
+                                                                  }
+                                                                ]
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "tag": "footer",
+    "attributes": {
+      "id": "SITE_FOOTER",
+      "class": "MLzr0a SITE_FOOTER wixui-footer",
+      "tabindex": "-1"
+    },
+    "children": [
+      {
+        "tag": "div",
+        "attributes": {
+          "class": "uZIV9d"
+        },
+        "children": [
+          {
+            "tag": "div",
+            "attributes": {
+              "id": "bgLayers_SITE_FOOTER",
+              "data-hook": "bgLayers",
+              "data-motion-part": "BG_LAYER SITE_FOOTER",
+              "class": "QG9w8P XzOkCb"
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attributes": {
+                  "data-testid": "colorUnderlay",
+                  "class": "LNYVZi ayCf9D"
+                },
+                "children": []
+              },
+              {
+                "tag": "div",
+                "attributes": {
+                  "id": "bgMedia_SITE_FOOTER",
+                  "data-motion-part": "BG_MEDIA SITE_FOOTER",
+                  "class": "ROWgFb"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "attributes": {
+              "class": "ncI7Xj"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "tag": "div",
+        "attributes": {
+          "class": "XKFSfx"
+        },
+        "children": [
+          {
+            "tag": "div",
+            "attributes": {
+              "data-mesh-id": "SITE_FOOTERinlineContent",
+              "data-testid": "inline-content",
+              "class": ""
+            },
+            "children": [
+              {
+                "tag": "div",
+                "attributes": {
+                  "data-mesh-id": "SITE_FOOTERinlineContent-gridContainer",
+                  "data-testid": "mesh-container-content"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "id": "comp-iqtf112x",
+                      "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-iqtf112x wixui-rich-text",
+                      "data-testid": "richTextElement"
+                    },
+                    "children": [
+                      {
+                        "tag": "h4",
+                        "attributes": {
+                          "class": "font_4 wixui-rich-text__text",
+                          "style": "line-height:1.78em; font-size:30px;"
+                        },
+                        "children": [
+                          {
+                            "tag": "span",
+                            "attributes": {
+                              "style": "color:#FFFFFF;",
+                              "class": "wixui-rich-text__text"
+                            },
+                            "children": [
+                              {
+                                "tag": "span",
+                                "attributes": {
+                                  "style": "font-weight:bold;",
+                                  "class": "wixui-rich-text__text"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "a",
+                                    "attributes": {
+                                      "href": "https://www.scottycon.com",
+                                      "target": "_self",
+                                      "class": "wixui-rich-text__text"
+                                    },
+                                    "children": [
+                                      {
+                                        "tag": "span",
+                                        "attributes": {
+                                          "style": "letter-spacing:0.05em;",
+                                          "class": "wixui-rich-text__text"
+                                        },
+                                        "children": [
+                                          "ScottyCon"
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "id": "comp-iqteyfn5",
+                      "class": "comp-iqteyfn5 w4DepW"
+                    },
+                    "children": [
+                      {
+                        "tag": "ul",
+                        "attributes": {
+                          "class": "tN_ggS",
+                          "aria-label": "Social Bar"
+                        },
+                        "children": [
+                          {
+                            "tag": "li",
+                            "attributes": {
+                              "id": "dataItem-iqteyfno2-comp-iqteyfn5",
+                              "class": "re13Ik"
+                            },
+                            "children": [
+                              {
+                                "tag": "a",
+                                "attributes": {
+                                  "data-testid": "linkElement",
+                                  "href": "https://www.instagram.com/scottycon.official/",
+                                  "target": "_blank",
+                                  "rel": "noreferrer noopener",
+                                  "class": "twXk19",
+                                  "aria-label": "White Instagram Icon"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "img",
+                                    "attributes": {
+                                      "id": "img_0_comp-iqteyfn5",
+                                      "src": "/original-site/white-instagram-icon-2915ee450ede.png",
+                                      "alt": "White Instagram Icon",
+                                      "style": "object-fit:cover",
+                                      "class": "ZK9snE sFiSiq",
+                                      "width": "37",
+                                      "height": "37"
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "li",
+                            "attributes": {
+                              "id": "dataItem-iqteyfnn-comp-iqteyfn5",
+                              "class": "re13Ik"
+                            },
+                            "children": [
+                              {
+                                "tag": "a",
+                                "attributes": {
+                                  "data-testid": "linkElement",
+                                  "href": "https://twitter.com/CMUScottyCon",
+                                  "target": "_blank",
+                                  "rel": "noreferrer noopener",
+                                  "class": "twXk19",
+                                  "aria-label": "White Twitter Icon"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "img",
+                                    "attributes": {
+                                      "id": "img_1_comp-iqteyfn5",
+                                      "src": "/original-site/white-twitter-icon-a44c7ff63542.png",
+                                      "alt": "White Twitter Icon",
+                                      "style": "object-fit:cover",
+                                      "class": "ZK9snE sFiSiq",
+                                      "width": "37",
+                                      "height": "37"
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "li",
+                            "attributes": {
+                              "id": "dataItem-iqteyfnh1-comp-iqteyfn5",
+                              "class": "re13Ik"
+                            },
+                            "children": [
+                              {
+                                "tag": "a",
+                                "attributes": {
+                                  "data-testid": "linkElement",
+                                  "href": "https://www.facebook.com/CMUScottyCon",
+                                  "target": "_blank",
+                                  "rel": "noreferrer noopener",
+                                  "class": "twXk19",
+                                  "aria-label": "White Facebook Icon"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "img",
+                                    "attributes": {
+                                      "id": "img_2_comp-iqteyfn5",
+                                      "src": "/original-site/white-facebook-icon-bfc8ec872100.png",
+                                      "alt": "White Facebook Icon",
+                                      "style": "object-fit:cover",
+                                      "class": "ZK9snE sFiSiq",
+                                      "width": "37",
+                                      "height": "37"
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "li",
+                            "attributes": {
+                              "id": "dataItem-l9hgr4qf-comp-iqteyfn5",
+                              "class": "re13Ik"
+                            },
+                            "children": [
+                              {
+                                "tag": "a",
+                                "attributes": {
+                                  "data-testid": "linkElement",
+                                  "href": "mailto:scottycon@andrew.cmu.edu?subject=ScottyCon%20-%20General%20Inquiry",
+                                  "target": "_self",
+                                  "class": "twXk19",
+                                  "aria-label": "email"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "img",
+                                    "attributes": {
+                                      "id": "img_3_comp-iqteyfn5",
+                                      "src": "/original-site/email-3384feed077f.png",
+                                      "alt": "email",
+                                      "style": "object-fit:cover",
+                                      "class": "ZK9snE sFiSiq",
+                                      "width": "37",
+                                      "height": "37"
+                                    },
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "id": "comp-iqtfvy0l",
+                      "class": "sEUU4o comp-iqtfvy0l"
+                    },
+                    "children": [
+                      {
+                        "tag": "div",
+                        "attributes": {
+                          "class": "CKGc0j wixui-vertical-line"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "id": "comp-iqhzxsa8",
+                      "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-iqhzxsa8 wixui-rich-text",
+                      "data-testid": "richTextElement"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attributes": {
+                          "class": "font_8 wixui-rich-text__text",
+                          "style": "line-height:1.8em; font-size:16px;"
+                        },
+                        "children": [
+                          {
+                            "tag": "span",
+                            "attributes": {
+                              "style": "letter-spacing:0.05em;",
+                              "class": "wixui-rich-text__text"
+                            },
+                            "children": [
+                              "Jared L. Cohon University Center"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attributes": {
+                          "class": "font_8 wixui-rich-text__text",
+                          "style": "line-height:1.8em; font-size:16px;"
+                        },
+                        "children": [
+                          {
+                            "tag": "span",
+                            "attributes": {
+                              "style": "letter-spacing:0.05em;",
+                              "class": "wixui-rich-text__text"
+                            },
+                            "children": [
+                              "5032 Forbes Ave,"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attributes": {
+                          "class": "font_8 wixui-rich-text__text",
+                          "style": "line-height:1.8em; font-size:16px;"
+                        },
+                        "children": [
+                          {
+                            "tag": "span",
+                            "attributes": {
+                              "style": "letter-spacing:0.05em;",
+                              "class": "wixui-rich-text__text"
+                            },
+                            "children": [
+                              "Pittsburgh, PA 15213"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "id": "comp-iqtfw9ms",
+                      "class": "sEUU4o comp-iqtfw9ms"
+                    },
+                    "children": [
+                      {
+                        "tag": "div",
+                        "attributes": {
+                          "class": "CKGc0j wixui-vertical-line"
+                        },
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "id": "comp-iqhzu2py",
+                      "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-iqhzu2py wixui-rich-text",
+                      "data-testid": "richTextElement"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attributes": {
+                          "class": "font_8 wixui-rich-text__text",
+                          "style": "line-height:1.8em; font-size:16px;"
+                        },
+                        "children": [
+                          {
+                            "tag": "span",
+                            "attributes": {
+                              "style": "letter-spacing:normal;",
+                              "class": "wixui-rich-text__text"
+                            },
+                            "children": [
+                              "03.27.2027"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attributes": {
+                          "class": "font_8 wixui-rich-text__text",
+                          "style": "line-height:1.8em; font-size:16px;"
+                        },
+                        "children": [
+                          {
+                            "tag": "span",
+                            "attributes": {
+                              "style": "letter-spacing:normal;",
+                              "class": "wixui-rich-text__text"
+                            },
+                            "children": [
+                              "11 AM - 9 PM"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "id": "comp-iqten8wy",
+                      "class": "comp-iqten8wy nJiBti wixui-horizontal-line"
+                    },
+                    "children": []
+                  },
+                  {
+                    "tag": "div",
+                    "attributes": {
+                      "id": "comp-iqhzvdpp",
+                      "class": "N8MGzv _v6ohL AWXfZq PO9MfV comp-iqhzvdpp wixui-rich-text",
+                      "data-testid": "richTextElement"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attributes": {
+                          "class": "font_8 wixui-rich-text__text",
+                          "style": "line-height:normal; font-size:16px;"
+                        },
+                        "children": [
+                          {
+                            "tag": "span",
+                            "attributes": {
+                              "style": "letter-spacing:normal;",
+                              "class": "wixui-rich-text__text"
+                            },
+                            "children": [
+                              "© 2027 "
+                            ]
+                          },
+                          {
+                            "tag": "span",
+                            "attributes": {
+                              "style": "letter-spacing:normal;",
+                              "class": "wixui-rich-text__text"
+                            },
+                            "children": [
+                              "by ScottyCon"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

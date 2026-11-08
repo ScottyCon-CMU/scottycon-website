@@ -1,5 +1,5 @@
 /* Theme colors. TODO: swap in ScottyCon colors. */
-:root {
+:root:not(:has(.original-home)) {
   --text: #6b6375;
   --text-h: #08060d;
   --bg: #fff;
@@ -12,7 +12,7 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not(:has(.original-home)) {
     --text: #9ca3af;
     --text-h: #f3f4f6;
     --bg: #16171d;
@@ -24,12 +24,12 @@ body {
   margin: 0;
 }
 
-h1,
-h2,
-h3 {
+:root:not(:has(.original-home)) h1,
+:root:not(:has(.original-home)) h2,
+:root:not(:has(.original-home)) h3 {
   color: var(--text-h);
 }
 
-a {
+:root:not(:has(.original-home)) a {
   color: var(--accent);
 }

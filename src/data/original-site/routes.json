@@ -1,0 +1,74 @@
+[
+  {
+    "path": "/faq",
+    "source": "https://www.scottycon.com/faq"
+  },
+  {
+    "path": "/applications",
+    "source": "https://www.scottycon.com/applications"
+  },
+  {
+    "path": "/rules",
+    "source": "https://www.scottycon.com/rules"
+  },
+  {
+    "path": "/maps",
+    "source": "https://www.scottycon.com/maps"
+  },
+  {
+    "path": "/guests",
+    "source": "https://www.scottycon.com/guests"
+  },
+  {
+    "path": "/performances",
+    "source": "https://www.scottycon.com/performances"
+  },
+  {
+    "path": "/panels",
+    "source": "https://www.scottycon.com/panels"
+  },
+  {
+    "path": "/cosplay",
+    "source": "https://www.scottycon.com/cosplay"
+  },
+  {
+    "path": "/gaming",
+    "source": "https://www.scottycon.com/gaming"
+  },
+  {
+    "path": "/crafts",
+    "source": "https://www.scottycon.com/crafts"
+  },
+  {
+    "path": "/anime",
+    "source": "https://www.scottycon.com/anime"
+  },
+  {
+    "path": "/artistalley",
+    "source": "https://www.scottycon.com/artistalley"
+  },
+  {
+    "path": "/vendors",
+    "source": "https://www.scottycon.com/vendors"
+  },
+  {
+    "path": "/dining",
+    "source": "https://www.scottycon.com/dining"
+  },
+  {
+    "path": "/sponsors",
+    "source": "https://www.scottycon.com/sponsors"
+  },
+  {
+    "path": "/registration",
+    "source": "https://www.scottycon.com/registration"
+  },
+  {
+    "path": "/schedule",
+    "source": "https://www.scottycon.com/schedule"
+  },
+  {
+    "path": "/clubfair",
+    "source": "https://www.scottycon.com/clubfair"
+  }
+]
